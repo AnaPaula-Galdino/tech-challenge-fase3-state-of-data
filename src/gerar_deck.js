@@ -399,7 +399,11 @@ slideGrafico("Retenção",
   ], { x: 6.95, y: 2.42, w: 5.8, h: 3.1, fontSize: 12.5, color: APOIO, fontFace: F, isTextBox: true, margin: 0, paraSpaceAfter: 7, valign: "top" });
 
   s.addText("Todo o código, os notebooks executados e as consultas SQL acompanham a entrega e reproduzem estes números do zero.",
-    { x: 0.55, y: 5.75, w: 12.2, h: 0.4, fontSize: 13, italic: true, color: TINTA, fontFace: F, isTextBox: true, margin: 0 });
+    { x: 0.55, y: 5.62, w: 12.2, h: 0.4, fontSize: 13, italic: true, color: TINTA, fontFace: F, isTextBox: true, margin: 0 });
+  s.addText([
+    { text: "Repositório público com todo o material: " },
+    { text: "github.com/AnaPaula-Galdino/tech-challenge-fase3-state-of-data", options: { color: AZUL_MEDIO, hyperlink: { url: "https://github.com/AnaPaula-Galdino/tech-challenge-fase3-state-of-data" } } },
+  ], { x: 0.55, y: 6.02, w: 12.2, h: 0.4, fontSize: 13, color: TINTA, fontFace: F, isTextBox: true, margin: 0 });
   rodape(s, "Fonte: documentação de auditoria do projeto, entregue junto com o material.");
   s.addNotes("Declarar limitação antes que o avaliador pergunte é o que separa análise de opinião.");
 }
@@ -414,9 +418,13 @@ slideGrafico("Retenção",
   s.addText("Obrigada", { x: 0.9, y: 2.75, w: 8, h: 0.9, fontSize: 40, color: "FFFFFF", fontFace: F, isTextBox: true, margin: 0 });
   s.addText("O mercado brasileiro de dados está mais caro no topo, mais concentrado do que parece e mais decidido sobre IA do que estava há dois anos. As três decisões deste material saem daí.",
     { x: 0.9, y: 3.75, w: 9.4, h: 1.1, fontSize: 15, color: "FFFFFF", fontFace: F, isTextBox: true, margin: 0 });
+  s.addText([
+    { text: "Todo o material, código, notebooks e documentação: " },
+    { text: "github.com/AnaPaula-Galdino/tech-challenge-fase3-state-of-data", options: { color: AZUL_CLARO, hyperlink: { url: "https://github.com/AnaPaula-Galdino/tech-challenge-fase3-state-of-data" } } },
+  ], { x: 0.9, y: 5.42, w: 10.5, h: 0.3, fontSize: 13, color: "FFFFFF", fontFace: F, isTextBox: true, margin: 0 });
   s.addText("Ana Paula Corrêa Galdino  ·  RM370461  ·  POSTECH Data Analytics",
     { x: 0.9, y: 5.9, w: 8.5, h: 0.3, fontSize: 12, color: "FFFFFF", fontFace: F, isTextBox: true, margin: 0 });
-  s.addNotes("Fechar retomando a promessa da abertura e abrir para perguntas.");
+  s.addNotes("Fechar retomando a promessa da abertura, citar o repositório público e abrir para perguntas.");
 }
 
 pres.writeFile({ fileName: path.resolve(__dirname, "..", "entregaveis", "TechChallenge_Fase3_MaterialExecutivo.pptx") })
