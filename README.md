@@ -6,6 +6,9 @@ Solução de Engenharia de Dados e Analytics sobre a pesquisa **State of Data Br
 **Aluna:** Ana Paula Corrêa Galdino
 **Entrega:** Fase 3
 
+**Entregáveis do enunciado:** [material executivo em PDF](entregaveis/TechChallenge_Fase3_MaterialExecutivo.pdf), [diagrama da arquitetura no Draw.io](entregaveis/arquitetura_aws.drawio) e os códigos e notebooks deste repositório.
+**Auditoria de ponta a ponta:** [docs/relatorio-auditoria-final.md](docs/relatorio-auditoria-final.md). **Conformidade requisito a requisito:** [docs/matriz-rastreabilidade-fase3.md](docs/matriz-rastreabilidade-fase3.md).
+
 ---
 
 ## 1. O problema
