@@ -5,7 +5,7 @@
 **Fonte da verdade, única:** `DTAT, Tech Challenge, Fase 3.pdf` (6 páginas)
 **Fonte de apoio operacional:** respostas do corpo docente no canal de dúvidas do Discord, consolidadas em `fase3-diretrizes-docentes.md`. Serve para destravar erro técnico e entender o que a banca avalia. Não cria, não substitui e não flexibiliza requisito. Em qualquer divergência, prevalece o PDF.
 **Prazo:** controlado pela Ana
-**Versão da matriz:** v5.0, de 05/09/2026
+**Versão da matriz:** v6.0, de 05/09/2026
 **Status permitidos:** `Atendido`, `Parcial`, `Pendente`, `Bloqueado (depende de decisão da Ana)`
 
 ---
@@ -101,7 +101,7 @@ Origem: canal de dúvidas do Discord da turma 13DTAT, extração de 04/09/2026. 
 |----|------|------------|-----------|--------|
 | B01 | Roteiro do pitch executivo de 4 minutos | `entregaveis/roteiro_pitch_4min.md` | Seis blocos cronometrados, 568 palavras faladas, tempo estimado de 3 minutos e 55 segundos a 145 palavras por minuto | Atendido |
 | B02 | Vídeo pitch executivo de até 4 minutos | Gravação feita pela Ana a partir do roteiro | (pendente) | Pendente |
-| B03 | Repositório GitHub com os artefatos, citado no material executivo | Repositório público com README, notebooks, scripts Glue e SQL | (pendente) | Pendente |
+| B03 | Repositório GitHub com os artefatos, citado no material executivo | Repositório público [github.com/AnaPaula-Galdino/tech-challenge-fase3-state-of-data](https://github.com/AnaPaula-Galdino/tech-challenge-fase3-state-of-data) | 71 arquivos em 12 commits: código, notebooks executados, SQL, jobs Glue, documentação, camada Gold em CSV, figuras e entregáveis. Link citado nos slides 21 e 22 do material executivo | Atendido |
 
 > **Nota 1:** a apresentação executiva não é bônus, ela é a Entrega 1 obrigatória (R24 e R25). O diferencial perante o avaliador é o par roteiro e vídeo pitch, mais o repositório GitHub, que o próprio professor classificou como diferencial.
 >
@@ -113,16 +113,15 @@ Origem: canal de dúvidas do Discord da turma 13DTAT, extração de 04/09/2026. 
 
 | Status | Quantidade |
 |--------|-----------|
-| Atendido | 36 |
-| Pendente | 3 |
+| Atendido | 37 |
+| Pendente | 2 |
 
-**Os 35 requisitos verificáveis do enunciado estão atendidos e evidenciados.** O trigésimo sexto, R35, é o controle de prazo, que não é entregável e permanece sob responsabilidade da Ana. As duas demais pendências são itens adicionais, fora do enunciado:
+**Os 35 requisitos verificáveis do enunciado estão atendidos e evidenciados.** O trigésimo sexto, R35, é o controle de prazo, que não é entregável e permanece sob responsabilidade da Ana. A pendência restante é um item adicional, fora do enunciado:
 
 | ID | O que falta | Natureza |
 |----|-------------|----------|
 | R35 | Controle de prazo | Sob responsabilidade da Ana |
-| B02 | Gravação do vídeo pitch | Item adicional, roteiro já entregue |
-| B03 | Publicação do repositório no GitHub | Item adicional, classificado como diferencial pelo professor |
+| B02 | Gravação do vídeo pitch | Item adicional, roteiro entregue e cronometrado em 3 minutos e 55 segundos |
 
 A auditoria de ponta a ponta executada em 05/09/2026, antes da publicação, encontrou e corrigiu 19 não conformidades, entre erros factuais, imprecisões estatísticas e lacunas de conformidade com o enunciado. O relatório completo, camada por camada, está em `docs/relatorio-auditoria-final.md`.
 

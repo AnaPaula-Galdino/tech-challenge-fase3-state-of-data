@@ -95,6 +95,7 @@ Pergunta-guia: lendo do zero, com o PDF ao lado, onde este trabalho perderia pon
 | Notebook sem saída visível | Neutralizado. As 29 células foram executadas na ordem e as saídas estão gravadas |
 | Comparação de valores nominais sem ressalva | Neutralizado. A ausência de correção pela inflação está declarada no gráfico, no slide de limitações e na documentação |
 | Evidência citada e não entregue | **Uma pendência.** O print 1 é citado na Matriz e no relatório de execução, e não estava na pasta de evidências. Depende de captura pela Ana, com o laboratório ainda aberto |
+| Repositório citado no material e inexistente | Neutralizado. O repositório foi publicado em 05/09/2026 e o link aparece nos slides 21 e 22 |
 
 ## Conclusão
 
@@ -108,4 +109,4 @@ Os três achados mais graves são de natureza diferente entre si, e vale registr
 
 Nenhuma dessas três falhas geraria erro de execução, e nenhuma apareceria em uma revisão superficial.
 
-**Situação final:** os 35 requisitos verificáveis do enunciado estão atendidos e evidenciados. O trigésimo sexto é o controle de prazo, que não é entregável. As duas pendências restantes, o vídeo pitch e a publicação no GitHub, são itens adicionais definidos pela Ana, fora do enunciado.
+**Situação final:** os 35 requisitos verificáveis do enunciado estão atendidos e evidenciados. O trigésimo sexto é o controle de prazo, que não é entregável. O repositório público foi publicado em https://github.com/AnaPaula-Galdino/tech-challenge-fase3-state-of-data e está citado no material executivo. A única pendência restante é a gravação do vídeo pitch, item adicional definido pela Ana, fora do enunciado.
