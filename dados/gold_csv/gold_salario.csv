@@ -1,0 +1,136 @@
+edicao,recorte,categoria,respondentes,mediana_faixa_reais,q1_faixa_reais,q3_faixa_reais
+2024-2025,nivel,Sênior,1572,14000,10000,18000
+2023-2024,nivel,Júnior,1046,3500,2500,5000
+2024-2025,nivel,Júnior,868,3500,2500,5000
+2024-2025,nivel,Pleno,1376,7000,5000,10000
+2023-2024,nivel,Sênior,1419,10000,10000,14000
+2023-2024,nivel,Pleno,1392,7000,5000,10000
+2025-2026,nivel,Especialista/Staff+,349,18000,14000,22500
+2025-2026,nivel,Júnior,518,3500,2500,5000
+2025-2026,nivel,Pleno,775,7000,5000,10000
+2025-2026,nivel,Sênior,858,14000,10000,18000
+2024-2025,genero,Feminino,1141,10000,5000,14000
+2024-2025,genero,Masculino,3699,10000,5000,18000
+2023-2024,genero,Masculino,3622,10000,5000,14000
+2023-2024,genero,Feminino,1111,7000,5000,10000
+2025-2026,genero,Feminino,701,10000,5000,14000
+2025-2026,genero,Masculino,2510,10000,7000,18000
+2023-2024,regiao_onde_mora,Centro-oeste,304,10000,5000,14000
+2023-2024,regiao_onde_mora,Nordeste,501,7000,3500,10000
+2024-2025,regiao_onde_mora,Sul,988,10000,5000,14000
+2023-2024,regiao_onde_mora,Sudeste,2890,10000,5000,14000
+2024-2025,regiao_onde_mora,Nordeste,447,7000,5000,14000
+2024-2025,regiao_onde_mora,Sudeste,2939,10000,7000,18000
+2024-2025,regiao_onde_mora,Centro-oeste,300,7000,5000,14000
+2024-2025,regiao_onde_mora,Norte,57,7000,3500,10000
+2023-2024,regiao_onde_mora,Norte,69,7000,3500,10000
+2023-2024,regiao_onde_mora,Sul,886,7000,5000,14000
+2025-2026,regiao_onde_mora,Sul,510,10000,5000,14000
+2025-2026,regiao_onde_mora,Nordeste,329,10000,5000,14000
+2025-2026,regiao_onde_mora,Norte,36,10000,3500,18000
+2025-2026,regiao_onde_mora,Sudeste,2024,10000,7000,18000
+2025-2026,regiao_onde_mora,Centro-oeste,221,10000,5000,18000
+2024-2025,cargo,Analista de Dados/Data Analyst,957,7000,5000,10000
+2024-2025,cargo,Analista de BI/BI Analyst,396,5000,3500,10000
+2024-2025,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,122,7000,3500,10000
+2023-2024,cargo,Analista de Dados/Data Analyst,907,7000,3500,10000
+2023-2024,cargo,Outras Engenharias (não inclui dev),31,7000,2500,10000
+2024-2025,cargo,Cientista de Dados/Data Scientist,687,10000,7000,14000
+2023-2024,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,105,7000,5000,14000
+2023-2024,cargo,Engenharia e Arquitetura de Dados,684,10000,7000,14000
+2023-2024,cargo,Analista de Suporte/Analista Técnico,72,3500,2500,5000
+2023-2024,cargo,Analista de Inteligência de Mercado/Market Intelligence,39,5000,2500,7000
+2024-2025,cargo,Engenharia e Arquitetura de Dados,660,10000,7000,14000
+2024-2025,cargo,Analista de Negócios/Business Analyst,184,7000,5000,10000
+2024-2025,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,103,14000,10000,22500
+2024-2025,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),80,10000,10000,14000
+2024-2025,cargo,Analista de Suporte/Analista Técnico,78,3500,2500,5000
+2023-2024,cargo,Cientista de Dados/Data Scientist,687,10000,7000,14000
+2023-2024,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,75,10000,7000,18000
+2023-2024,cargo,Analytics Engineer,139,10000,7000,14000
+2024-2025,cargo,Analytics Engineer,228,10000,7000,14000
+2024-2025,cargo,Outra Opção,254,3500,2500,10000
+2023-2024,cargo,Outra Opção,262,3500,2500,7000
+2023-2024,cargo,Analista de BI/BI Analyst,506,5000,3500,7000
+2023-2024,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),81,10000,10000,14000
+2023-2024,cargo,Analista de Negócios/Business Analyst,195,7000,5000,10000
+2025-2026,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,106,18000,10000,27500
+2025-2026,cargo,Cientista de Dados/Data Scientist,423,10000,10000,18000
+2025-2026,cargo,Analista de Negócios/Business Analyst,141,7000,5000,10000
+2025-2026,cargo,Analista de BI/BI Analyst,215,7000,5000,10000
+2025-2026,cargo,Analytics Engineer,135,14000,7000,14000
+2025-2026,cargo,Outra Opção,206,3500,2500,10000
+2025-2026,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),33,14000,10000,22500
+2025-2026,cargo,Engenharia e Arquitetura de Dados,430,14000,10000,18000
+2025-2026,cargo,Analista de Suporte/Analista Técnico,55,5000,2500,10000
+2025-2026,cargo,Analista de Dados/Data Analyst,599,7000,5000,10000
+2025-2026,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,106,10000,7000,14000
+2024-2025,modelo_trabalho,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),998,10000,7000,18000
+2023-2024,modelo_trabalho,Modelo 100% presencial,790,5000,2500,10000
+2024-2025,modelo_trabalho,Modelo híbrido com dias fixos de trabalho presencial,850,10000,5000,14000
+2023-2024,modelo_trabalho,Modelo 100% remoto,2201,10000,5000,14000
+2024-2025,modelo_trabalho,Modelo 100% presencial,792,5000,3500,10000
+2024-2025,modelo_trabalho,Modelo 100% remoto,2221,10000,7000,14000
+2023-2024,modelo_trabalho,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),972,10000,7000,14000
+2023-2024,modelo_trabalho,Modelo híbrido com dias fixos de trabalho presencial,790,7000,5000,14000
+2025-2026,modelo_trabalho,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),631,14000,7000,18000
+2025-2026,modelo_trabalho,Modelo 100% presencial,670,7000,3500,10000
+2025-2026,modelo_trabalho,Modelo 100% remoto,1281,14000,7000,18000
+2025-2026,modelo_trabalho,Modelo híbrido com dias fixos de trabalho presencial,645,10000,7000,14000
+2024-2025,setor,Tecnologia/Fábrica de Software,941,10000,5000,18000
+2024-2025,setor,Educação,194,10000,5000,14000
+2024-2025,setor,Varejo,380,10000,7000,14000
+2024-2025,setor,Área da Saúde,195,10000,5000,14000
+2024-2025,setor,Marketing,114,7000,5000,14000
+2023-2024,setor,Finanças ou Bancos,927,10000,5000,14000
+2023-2024,setor,Tecnologia/Fábrica de Software,857,10000,5000,14000
+2023-2024,setor,Setor de Energia,84,7000,5000,14000
+2023-2024,setor,Área de Consultoria,389,7000,5000,14000
+2023-2024,setor,Área da Saúde,201,10000,5000,14000
+2024-2025,setor,Internet/Ecommerce,153,10000,7000,22500
+2024-2025,setor,Área de Consultoria,353,10000,5000,14000
+2024-2025,setor,Telecomunicação,103,7000,5000,14000
+2024-2025,setor,Setor de Energia,82,10000,5000,14000
+2024-2025,setor,Entretenimento ou Esportes,46,10000,7000,22500
+2023-2024,setor,Marketing,115,5000,3500,10000
+2023-2024,setor,Setor Público,174,7000,5000,14000
+2023-2024,setor,Educação,209,7000,5000,10000
+2023-2024,setor,Varejo,392,10000,5000,14000
+2023-2024,setor,Setor Imobiliário/ Construção Civil,66,7000,3500,14000
+2023-2024,setor,Seguros ou Previdência,68,10000,5000,14000
+2024-2025,setor,Setor Automotivo,55,7000,5000,14000
+2024-2025,setor,Setor Alimentício,143,10000,7000,14000
+2024-2025,setor,Setor Imobiliário/ Construção Civil,74,10000,5000,18000
+2023-2024,setor,Agronegócios,92,7000,5000,10000
+2023-2024,setor,Entretenimento ou Esportes,59,10000,5000,14000
+2023-2024,setor,Setor Automotivo,53,7000,3500,10000
+2024-2025,setor,Setor Público,142,10000,5000,18000
+2024-2025,setor,Agronegócios,84,7000,5000,14000
+2024-2025,setor,Indústria,328,10000,7000,14000
+2024-2025,setor,Finanças ou Bancos,1035,10000,7000,14000
+2024-2025,setor,Outra Opção,332,7000,5000,14000
+2024-2025,setor,Seguros ou Previdência,65,10000,7000,14000
+2023-2024,setor,Indústria,313,10000,5000,14000
+2023-2024,setor,Outra Opção,344,7000,3500,14000
+2023-2024,setor,Internet/Ecommerce,129,10000,7000,14000
+2023-2024,setor,Setor Alimentício,109,7000,5000,14000
+2023-2024,setor,Telecomunicação,115,7000,3500,10000
+2025-2026,setor,Setor Automotivo,53,10000,5000,14000
+2025-2026,setor,Setor Alimentício,72,10000,5000,14000
+2025-2026,setor,Finanças ou Bancos,598,10000,7000,18000
+2025-2026,setor,Entretenimento ou Esportes,43,10000,7000,18000
+2025-2026,setor,Outra Opção,243,10000,5000,14000
+2025-2026,setor,Educação,163,10000,5000,14000
+2025-2026,setor,Indústria,237,10000,5000,14000
+2025-2026,setor,Área da Saúde,128,10000,7000,18000
+2025-2026,setor,Marketing,93,10000,5000,14000
+2025-2026,setor,Setor de Energia,58,10000,5000,18000
+2025-2026,setor,Setor Imobiliário/ Construção Civil,46,7000,5000,14000
+2025-2026,setor,Varejo,181,10000,7000,14000
+2025-2026,setor,Agronegócios,66,10000,5000,14000
+2025-2026,setor,Internet/Ecommerce,105,14000,7000,18000
+2025-2026,setor,Telecomunicação,75,10000,5000,14000
+2025-2026,setor,Seguros ou Previdência,43,10000,7000,14000
+2025-2026,setor,Tecnologia/Fábrica de Software,563,10000,7000,18000
+2025-2026,setor,Área de Consultoria,285,10000,7000,18000
+2025-2026,setor,Setor Público,136,10000,7000,14000
