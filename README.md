@@ -2,12 +2,9 @@
 
 Solução de Engenharia de Dados e Analytics sobre a pesquisa **State of Data Brazil**, construída em arquitetura de data lake em camadas na AWS, com processamento distribuído em Spark.
 
-**Curso:** FIAP, Pós-Tech em Data Analytics
-**Aluna:** Ana Paula Corrêa Galdino
-**Entrega:** Fase 3
+**Ana Paula Corrêa Galdino** · RM370461 · POSTECH Data Analytics (DTAT), FIAP
 
-**Entregáveis do enunciado:** [material executivo em PDF](entregaveis/TechChallenge_Fase3_MaterialExecutivo.pdf), [diagrama da arquitetura no Draw.io](entregaveis/arquitetura_aws.drawio) e os códigos e notebooks deste repositório.
-**Auditoria de ponta a ponta:** [docs/relatorio-auditoria-final.md](docs/relatorio-auditoria-final.md). **Conformidade requisito a requisito:** [docs/matriz-rastreabilidade-fase3.md](docs/matriz-rastreabilidade-fase3.md).
+**Entregáveis:** [material executivo em PDF](entregaveis/TechChallenge_Fase3_MaterialExecutivo.pdf) e [em PowerPoint](entregaveis/TechChallenge_Fase3_MaterialExecutivo.pptx), [diagrama da arquitetura editável no Draw.io](entregaveis/arquitetura_aws.drawio), e os códigos e notebooks deste repositório.
 
 ---
 
@@ -15,7 +12,7 @@ Solução de Engenharia de Dados e Analytics sobre a pesquisa **State of Data Br
 
 Uma instituição financeira de grande porte quer expandir sua área de Dados, Analytics e Inteligência Artificial. Antes de decidir quanto contratar, quanto capacitar e onde investir, ela precisa entender o mercado brasileiro de dados com base em evidência, não em percepção.
 
-A resposta foi construída sobre as três últimas edições da pesquisa State of Data Brazil, do Data Hackers em parceria com a Bain: 2023-2024, 2024-2025 e 2025-2026. São 14.005 respostas originais, 14.002 após a remoção de três duplicatas integralmente idênticas, e 1.190 colunas somadas entre as três edições.
+Para responder, usei as três últimas edições da pesquisa State of Data Brazil, do Data Hackers em parceria com a Bain: 2023-2024, 2024-2025 e 2025-2026. São 14.005 respostas originais, 14.002 após a remoção de três duplicatas integralmente idênticas, e 1.190 colunas somadas entre as três edições.
 
 ## 2. O que a análise mostrou
 
@@ -31,7 +28,7 @@ A resposta foi construída sobre as três últimas edições da pesquisa State o
 | Satisfação por modelo de trabalho | 75,0% no híbrido flexível e 74,5% no remoto, empatados, contra 54,0% no presencial |
 | Concentração em finanças e tecnologia | 36,0% dos profissionais, com os dois primeiros em empate estatístico |
 
-A leitura completa, com premissas e limitações, está em `docs/achados-analiticos.md`.
+A leitura completa de cada número, com base, premissa e limitação, está no material executivo.
 
 ## 3. Arquitetura
 
@@ -53,9 +50,9 @@ Amazon S3, data lake em camadas, região us-east-1
 Gráficos em Python  ->  material executivo
 ```
 
-O diagrama completo está em `entregaveis/arquitetura_aws.drawio`, editável no Draw.io, e em `figuras/arquitetura_aws.png`.
+O diagrama completo está em `entregaveis/arquitetura_aws.drawio`, editável no Draw.io, e também dentro do material executivo, no slide 5.
 
-## 4. O problema técnico central, e como foi resolvido
+## 4. O problema técnico central, e como resolvi
 
 As três edições **não podem ser unidas pelo código da pergunta**. O código muda de significado entre edições. O exemplo mais grave: `2.q` identifica a ocorrência de demissões em massa em 2023-2024 e 2024-2025, e o modelo de trabalho em 2025-2026.
 
@@ -66,9 +63,9 @@ Levantamento completo:
 
 Uma união pelo código produziria gráficos comparando coisas diferentes, sem gerar erro nenhum na execução.
 
-**Regra adotada:** cada coluna usada é confirmada por três critérios simultâneos, código, texto da pergunta e conjunto de categorias observado nos dados. Só entra na série histórica a coluna aprovada nos três. O mapa completo está em `dados/mapa_equivalencia_edicoes.csv`.
+**A regra que adotei:** confirmo cada coluna por três critérios simultâneos, o código, o texto da pergunta e o conjunto de categorias observado nos dados. Só entra na série histórica a coluna aprovada nos três. O mapa completo está em `dados/mapa_equivalencia_edicoes.csv`.
 
-Outras divergências tratadas e documentadas em `src/harmonizacao.py`:
+Outras divergências que tratei, cada uma com a origem comentada em `src/harmonizacao.py`:
 
 - Campos booleanos gravados como `0` e `1` em duas edições e como `TRUE` e `FALSE` na outra.
 - Erros de digitação da própria pesquisa, como uma faixa salarial duplicada com limite errado e um porte de empresa escrito "de 501 a 100".
@@ -82,6 +79,12 @@ Outras divergências tratadas e documentadas em `src/harmonizacao.py`:
 .
 ├── README.md
 ├── requirements.txt
+├── notebooks/                    o pipeline completo, executado na ordem
+│   ├── 01_ingestao_bronze.ipynb
+│   ├── 02_bronze_para_silver.ipynb
+│   ├── 03_silver_para_gold.ipynb
+│   ├── 04_consultas_athena.ipynb
+│   └── 05_analises_e_graficos.ipynb
 ├── src/
 │   ├── schema.py                 leitor de cabeçalhos, cobre os três padrões de nomenclatura
 │   ├── conceitos.py              mapa de conceitos de negócio por edição
@@ -91,27 +94,11 @@ Outras divergências tratadas e documentadas em `src/harmonizacao.py`:
 │   ├── estilo.py                 sistema visual dos gráficos
 │   ├── graficos.py               geração das figuras, em versão completa e versão de slide
 │   ├── diagrama.py               geração do diagrama de arquitetura
-│   ├── gerar_notebooks.py        geração dos notebooks executados
+│   ├── gerar_notebooks.py        geração dos notebooks
 │   └── gerar_deck.js             geração do material executivo em PPTX
-├── notebooks/
-│   ├── 01_ingestao_bronze.ipynb
-│   ├── 02_bronze_para_silver.ipynb
-│   ├── 03_silver_para_gold.ipynb
-│   ├── 04_consultas_athena.ipynb
-│   └── 05_analises_e_graficos.ipynb
+├── glue/                         os dois jobs em versão autocontida, prontos para o AWS Glue
 ├── sql/
-│   └── consultas_athena.sql      registro das tabelas e consultas por pergunta do enunciado
-├── docs/
-│   ├── matriz-rastreabilidade-fase3.md   requisito a requisito do enunciado, com evidência
-│   ├── achados-analiticos.md             todos os números, com base e limitação
-│   ├── auditoria-bases.md                auditoria dos três arquivos de origem
-│   ├── guia-visual.md                    paleta, anatomia do slide e regras dos gráficos
-│   ├── plano-execucao-fase3.md           escopo, arquitetura e ordem de produção
-│   ├── relatorio-triple-check-01.md      auditoria das bases e da paleta
-│   ├── relatorio-auditoria-final.md      auditoria de ponta a ponta antes da entrega
-│   ├── relatorio-execucao-aws.md         o que rodou no laboratório, com identificadores
-│   ├── roteiro-execucao-aws.md           passo a passo para reproduzir no AWS Academy Lab
-│   └── roteiro_pitch_4min.md             roteiro do vídeo pitch executivo
+│   └── consultas_athena.sql      registro das tabelas e as consultas, uma por pergunta
 ├── dados/
 │   ├── mapa_equivalencia_edicoes.csv     equivalência de perguntas entre as três edições
 │   └── gold_csv/                         camada Gold exportada em CSV, insumo dos gráficos
@@ -119,9 +106,7 @@ Outras divergências tratadas e documentadas em `src/harmonizacao.py`:
 │   └── deck/                     mesmas figuras sem título, para uso nos slides
 └── entregaveis/
     ├── TechChallenge_Fase3_MaterialExecutivo.pptx / .pdf
-    ├── arquitetura_aws.drawio / .png
-    ├── glue/                     os dois jobs em versão autocontida, prontos para colar no Glue
-    └── evidencias/               prints da execução no laboratório
+    └── arquitetura_aws.drawio / .png
 ```
 
 Os arquivos de dados brutos e as camadas Bronze e Silver não são versionados, por tamanho. A seção 6 mostra como reconstruí-los a partir dos CSV originais do Kaggle.
@@ -146,7 +131,7 @@ python src/diagrama.py
 
 Os notebooks reproduzem as mesmas etapas com narrativa e saídas visíveis, e devem ser executados na ordem numérica.
 
-Para executar no AWS Academy Lab, siga `docs/roteiro-execucao-aws.md`. Os scripts prontos para o Glue estão em `entregaveis/glue/`, em versão autocontida, sem dependência de módulos externos e já com `getResolvedOptions` para receber `JOB_NAME` e `BUCKET`. São esses os arquivos que foram executados no laboratório, não os da pasta `src/`, que são a versão local equivalente.
+Para rodar no AWS Academy Lab, use os arquivos de `glue/`: são versões autocontidas, sem dependência de módulos externos e já com `getResolvedOptions` para receber `JOB_NAME` e `BUCKET`. Foram esses os arquivos que executei no laboratório, e não os de `src/`, que são a versão local equivalente.
 
 ## 7. Dados de origem
 
