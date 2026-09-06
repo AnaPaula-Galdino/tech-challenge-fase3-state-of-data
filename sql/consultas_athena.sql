@@ -5,7 +5,7 @@
 -- Todas as consultas leem a camada Gold, registrada no Glue Data Catalog.
 --
 -- Convencao: cada consulta responde a uma pergunta do enunciado, identificada
--- pelo codigo Rxx da Matriz de Rastreabilidade de Requisitos.
+-- por um codigo Rxx e pelo texto da pergunta no comentario que a antecede.
 --
 -- Antes da primeira execucao, definir em Athena > Configuracoes o local de
 -- armazenamento dos resultados, e criar o banco de dados com:
