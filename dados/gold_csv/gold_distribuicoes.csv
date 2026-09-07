@@ -1,0 +1,1009 @@
+edicao,pergunta_enunciado,dimensao,categoria,respondentes,total_validos,participacao_pct
+2023-2024,R17,situacao_trabalho,Empregado (CLT),3604,5293,68.0899
+2023-2024,R17,situacao_trabalho,Servidor Público,146,5293,2.7584
+2023-2024,R17,situacao_trabalho,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,116,5293,2.1916
+2023-2024,R17,situacao_trabalho,Prefiro não informar,10,5293,0.1889
+2023-2024,R17,situacao_trabalho,"Desempregado, buscando recolocação",361,5293,6.8203
+2023-2024,R17,situacao_trabalho,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,64,5293,1.2091
+2023-2024,R17,situacao_trabalho,Trabalho na área Acadêmica/Pesquisador,63,5293,1.1903
+2023-2024,R17,situacao_trabalho,Somente Estudante (graduação),78,5293,1.4736
+2023-2024,R17,situacao_trabalho,Freelancer,51,5293,0.9635
+2023-2024,R17,situacao_trabalho,Somente Estudante (pós-graduação),28,5293,0.529
+2023-2024,R17,situacao_trabalho,Empreendedor ou Empregado (CNPJ),555,5293,10.4855
+2023-2024,R17,situacao_trabalho,Estagiário,207,5293,3.9108
+2023-2024,R17,situacao_trabalho,Desempregado e não estou buscando recolocação,10,5293,0.1889
+2024-2025,R17,situacao_trabalho,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,130,5215,2.4928
+2024-2025,R17,situacao_trabalho,"Desempregado, buscando recolocação",205,5215,3.931
+2024-2025,R17,situacao_trabalho,Estagiário,186,5215,3.5666
+2024-2025,R17,situacao_trabalho,Servidor Público,124,5215,2.3778
+2024-2025,R17,situacao_trabalho,Somente Estudante (graduação),68,5215,1.3039
+2024-2025,R17,situacao_trabalho,Somente Estudante (pós-graduação),25,5215,0.4794
+2024-2025,R17,situacao_trabalho,Trabalho na área Acadêmica/Pesquisador,56,5215,1.0738
+2024-2025,R17,situacao_trabalho,Empreendedor ou Empregado (CNPJ),494,5215,9.4727
+2024-2025,R17,situacao_trabalho,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,77,5215,1.4765
+2024-2025,R17,situacao_trabalho,Freelancer,41,5215,0.7862
+2024-2025,R17,situacao_trabalho,Prefiro não informar,16,5215,0.3068
+2024-2025,R17,situacao_trabalho,Empregado (CLT),3782,5215,72.5216
+2024-2025,R17,situacao_trabalho,Desempregado e não estou buscando recolocação,11,5215,0.2109
+2025-2026,R17,situacao_trabalho,Prefiro não informar,18,3494,0.5152
+2025-2026,R17,situacao_trabalho,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,66,3494,1.889
+2025-2026,R17,situacao_trabalho,Trabalho na área Acadêmica/Pesquisador,44,3494,1.2593
+2025-2026,R17,situacao_trabalho,Desempregado e não estou buscando recolocação,10,3494,0.2862
+2025-2026,R17,situacao_trabalho,Estagiário,126,3494,3.6062
+2025-2026,R17,situacao_trabalho,Somente Estudante (graduação),34,3494,0.9731
+2025-2026,R17,situacao_trabalho,Somente Estudante (pós-graduação),22,3494,0.6297
+2025-2026,R17,situacao_trabalho,Empreendedor ou Empregado (CNPJ),428,3494,12.2496
+2025-2026,R17,situacao_trabalho,Servidor Público,123,3494,3.5203
+2025-2026,R17,situacao_trabalho,"Desempregado, buscando recolocação",167,3494,4.7796
+2025-2026,R17,situacao_trabalho,Freelancer,37,3494,1.059
+2025-2026,R17,situacao_trabalho,Empregado (CLT),2278,3494,65.1975
+2025-2026,R17,situacao_trabalho,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,141,3494,4.0355
+2023-2024,R17,setor,Finanças ou Bancos,927,4753,19.5035
+2023-2024,R17,setor,Tecnologia/Fábrica de Software,857,4753,18.0307
+2023-2024,R17,setor,Setor de Energia,84,4753,1.7673
+2023-2024,R17,setor,Área de Consultoria,389,4753,8.1843
+2023-2024,R17,setor,Área da Saúde,201,4753,4.2289
+2023-2024,R17,setor,Setor Farmaceutico,29,4753,0.6101
+2023-2024,R17,setor,Marketing,115,4753,2.4195
+2023-2024,R17,setor,Setor Público,174,4753,3.6608
+2023-2024,R17,setor,Educação,209,4753,4.3972
+2023-2024,R17,setor,Varejo,392,4753,8.2474
+2023-2024,R17,setor,Setor Imobiliário/ Construção Civil,66,4753,1.3886
+2023-2024,R17,setor,Seguros ou Previdência,68,4753,1.4307
+2023-2024,R17,setor,Agronegócios,92,4753,1.9356
+2023-2024,R17,setor,Entretenimento ou Esportes,59,4753,1.2413
+2023-2024,R17,setor,Filantropia/ONG's,28,4753,0.5891
+2023-2024,R17,setor,Setor Automotivo,53,4753,1.1151
+2023-2024,R17,setor,Indústria,313,4753,6.5853
+2023-2024,R17,setor,Outra Opção,344,4753,7.2375
+2023-2024,R17,setor,Internet/Ecommerce,129,4753,2.7141
+2023-2024,R17,setor,Setor Alimentício,109,4753,2.2933
+2023-2024,R17,setor,Telecomunicação,115,4753,2.4195
+2024-2025,R17,setor,Tecnologia/Fábrica de Software,941,4861,19.3582
+2024-2025,R17,setor,Educação,194,4861,3.9909
+2024-2025,R17,setor,Varejo,380,4861,7.8173
+2024-2025,R17,setor,Área da Saúde,195,4861,4.0115
+2024-2025,R17,setor,Marketing,114,4861,2.3452
+2024-2025,R17,setor,Internet/Ecommerce,153,4861,3.1475
+2024-2025,R17,setor,Área de Consultoria,353,4861,7.2619
+2024-2025,R17,setor,Telecomunicação,103,4861,2.1189
+2024-2025,R17,setor,Setor de Energia,82,4861,1.6869
+2024-2025,R17,setor,Entretenimento ou Esportes,46,4861,0.9463
+2024-2025,R17,setor,Setor Farmaceutico,27,4861,0.5554
+2024-2025,R17,setor,Setor Automotivo,55,4861,1.1315
+2024-2025,R17,setor,Setor Alimentício,143,4861,2.9418
+2024-2025,R17,setor,Setor Imobiliário/ Construção Civil,74,4861,1.5223
+2024-2025,R17,setor,Setor Público,142,4861,2.9212
+2024-2025,R17,setor,Agronegócios,84,4861,1.728
+2024-2025,R17,setor,Indústria,328,4861,6.7476
+2024-2025,R17,setor,Finanças ou Bancos,1035,4861,21.2919
+2024-2025,R17,setor,Outra Opção,332,4861,6.8299
+2024-2025,R17,setor,Seguros ou Previdência,65,4861,1.3372
+2024-2025,R17,setor,Filantropia/ONG's,15,4861,0.3086
+2025-2026,R17,setor,Setor Automotivo,53,3227,1.6424
+2025-2026,R17,setor,Setor Alimentício,72,3227,2.2312
+2025-2026,R17,setor,Finanças ou Bancos,598,3227,18.5311
+2025-2026,R17,setor,Setor Farmaceutico,17,3227,0.5268
+2025-2026,R17,setor,Filantropia/ONG's,22,3227,0.6817
+2025-2026,R17,setor,Entretenimento ou Esportes,43,3227,1.3325
+2025-2026,R17,setor,Outra Opção,243,3227,7.5302
+2025-2026,R17,setor,Educação,163,3227,5.0511
+2025-2026,R17,setor,Indústria,237,3227,7.3443
+2025-2026,R17,setor,Área da Saúde,128,3227,3.9665
+2025-2026,R17,setor,Marketing,93,3227,2.8819
+2025-2026,R17,setor,Setor de Energia,58,3227,1.7973
+2025-2026,R17,setor,Setor Imobiliário/ Construção Civil,46,3227,1.4255
+2025-2026,R17,setor,Varejo,181,3227,5.6089
+2025-2026,R17,setor,Agronegócios,66,3227,2.0452
+2025-2026,R17,setor,Internet/Ecommerce,105,3227,3.2538
+2025-2026,R17,setor,Telecomunicação,75,3227,2.3241
+2025-2026,R17,setor,Seguros ou Previdência,43,3227,1.3325
+2025-2026,R17,setor,Tecnologia/Fábrica de Software,563,3227,17.4465
+2025-2026,R17,setor,Área de Consultoria,285,3227,8.8317
+2025-2026,R17,setor,Setor Público,136,3227,4.2144
+2023-2024,R17,porte_empresa,de 6 a 10,89,4753,1.8725
+2023-2024,R17,porte_empresa,de 11 a 50,348,4753,7.3217
+2023-2024,R17,porte_empresa,de 501 a 1.000,446,4753,9.3835
+2023-2024,R17,porte_empresa,de 1.001 a 3.000,520,4753,10.9405
+2023-2024,R17,porte_empresa,de 1 a 5,124,4753,2.6089
+2023-2024,R17,porte_empresa,de 101 a 500,823,4753,17.3154
+2023-2024,R17,porte_empresa,Acima de 3.000,2077,4753,43.6987
+2023-2024,R17,porte_empresa,de 51 a 100,326,4753,6.8588
+2024-2025,R17,porte_empresa,de 101 a 500,760,4861,15.6346
+2024-2025,R17,porte_empresa,de 51 a 100,309,4861,6.3567
+2024-2025,R17,porte_empresa,de 11 a 50,283,4861,5.8218
+2024-2025,R17,porte_empresa,Acima de 3.000,2335,4861,48.0354
+2024-2025,R17,porte_empresa,de 1 a 5,113,4861,2.3246
+2024-2025,R17,porte_empresa,de 6 a 10,70,4861,1.44
+2024-2025,R17,porte_empresa,de 1.001 a 3.000,547,4861,11.2528
+2024-2025,R17,porte_empresa,de 501 a 1.000,444,4861,9.1339
+2025-2026,R17,porte_empresa,Acima de 3.000,1318,3227,40.8429
+2025-2026,R17,porte_empresa,de 11 a 50,234,3227,7.2513
+2025-2026,R17,porte_empresa,de 51 a 100,270,3227,8.3669
+2025-2026,R17,porte_empresa,de 6 a 10,51,3227,1.5804
+2025-2026,R17,porte_empresa,de 101 a 500,538,3227,16.6718
+2025-2026,R17,porte_empresa,de 1 a 5,95,3227,2.9439
+2025-2026,R17,porte_empresa,de 1.001 a 3.000,378,3227,11.7137
+2025-2026,R17,porte_empresa,de 501 a 1.000,343,3227,10.6291
+2023-2024,R17,tamanho_time_dados,1 - 3,168,896,18.75
+2023-2024,R17,tamanho_time_dados,11 - 20,107,896,11.942
+2023-2024,R17,tamanho_time_dados,51 - 100,84,896,9.375
+2023-2024,R17,tamanho_time_dados,Ainda não temos pessoas atuando com dados na empresa,51,896,5.692
+2023-2024,R17,tamanho_time_dados,4 - 10,137,896,15.2902
+2023-2024,R17,tamanho_time_dados,101 - 300,88,896,9.8214
+2023-2024,R17,tamanho_time_dados,Acima de 300 pessoas,169,896,18.8616
+2023-2024,R17,tamanho_time_dados,21 - 50,92,896,10.2679
+2024-2025,R17,tamanho_time_dados,11 - 20,106,1045,10.1435
+2024-2025,R17,tamanho_time_dados,Ainda não temos pessoas atuando com dados na empresa,51,1045,4.8804
+2024-2025,R17,tamanho_time_dados,1 - 3,164,1045,15.6938
+2024-2025,R17,tamanho_time_dados,51 - 100,86,1045,8.2297
+2024-2025,R17,tamanho_time_dados,101 - 300,120,1045,11.4833
+2024-2025,R17,tamanho_time_dados,Acima de 300 pessoas,249,1045,23.8278
+2024-2025,R17,tamanho_time_dados,4 - 10,179,1045,17.1292
+2024-2025,R17,tamanho_time_dados,21 - 50,90,1045,8.6124
+2025-2026,R17,tamanho_time_dados,21 - 50,76,652,11.6564
+2025-2026,R17,tamanho_time_dados,Ainda não temos pessoas atuando com dados na empresa,45,652,6.9018
+2025-2026,R17,tamanho_time_dados,11 - 20,76,652,11.6564
+2025-2026,R17,tamanho_time_dados,Acima de 300 pessoas,106,652,16.2577
+2025-2026,R17,tamanho_time_dados,1 - 3,127,652,19.4785
+2025-2026,R17,tamanho_time_dados,4 - 10,129,652,19.7853
+2025-2026,R17,tamanho_time_dados,51 - 100,44,652,6.7485
+2025-2026,R17,tamanho_time_dados,101 - 300,49,652,7.5153
+2023-2024,R17,nivel_ensino,Pós-graduação,1818,5293,34.3473
+2023-2024,R17,nivel_ensino,Prefiro não informar,8,5293,0.1511
+2023-2024,R17,nivel_ensino,Graduação/Bacharelado,1798,5293,33.9694
+2023-2024,R17,nivel_ensino,Mestrado,676,5293,12.7716
+2023-2024,R17,nivel_ensino,Estudante de Graduação,678,5293,12.8094
+2023-2024,R17,nivel_ensino,Não tenho graduação formal,105,5293,1.9838
+2023-2024,R17,nivel_ensino,Doutorado ou Phd,210,5293,3.9675
+2024-2025,R17,nivel_ensino,Estudante de Graduação,590,5215,11.3135
+2024-2025,R17,nivel_ensino,Mestrado,662,5215,12.6942
+2024-2025,R17,nivel_ensino,Graduação/Bacharelado,1711,5215,32.8092
+2024-2025,R17,nivel_ensino,Pós-graduação,1942,5215,37.2387
+2024-2025,R17,nivel_ensino,Prefiro não informar,8,5215,0.1534
+2024-2025,R17,nivel_ensino,Não tenho graduação formal,86,5215,1.6491
+2024-2025,R17,nivel_ensino,Doutorado ou Phd,216,5215,4.1419
+2025-2026,R17,nivel_ensino,Estudante de Graduação,355,3494,10.1603
+2025-2026,R17,nivel_ensino,Mestrado,443,3494,12.6789
+2025-2026,R17,nivel_ensino,Prefiro não informar,11,3494,0.3148
+2025-2026,R17,nivel_ensino,Doutorado ou Phd,152,3494,4.3503
+2025-2026,R17,nivel_ensino,Graduação/Bacharelado,1068,3494,30.5667
+2025-2026,R17,nivel_ensino,Não tenho graduação formal,61,3494,1.7459
+2025-2026,R17,nivel_ensino,Pós-graduação,1404,3494,40.1832
+2023-2024,R17,area_formacao,Química / Física,133,5180,2.5676
+2023-2024,R17,area_formacao,Outra opção,287,5180,5.5405
+2023-2024,R17,area_formacao,Economia/ Administração / Contabilidade / Finanças/ Negócios,814,5180,15.7143
+2023-2024,R17,area_formacao,Marketing / Publicidade / Comunicação / Jornalismo / Ciências Sociais,214,5180,4.1313
+2023-2024,R17,area_formacao,Ciências Biológicas/ Farmácia/ Medicina/ Área da Saúde,124,5180,2.3938
+2023-2024,R17,area_formacao,Computação / Engenharia de Software / Sistemas de Informação/ TI,2154,5180,41.583
+2023-2024,R17,area_formacao,Estatística/ Matemática / Matemática Computacional/ Ciências Atuariais,376,5180,7.2587
+2023-2024,R17,area_formacao,Outras Engenharias (não incluir engenharia de software ou TI),1078,5180,20.8108
+2024-2025,R17,area_formacao,Estatística/ Matemática / Matemática Computacional/ Ciências Atuariais,477,5121,9.3146
+2024-2025,R17,area_formacao,Computação / Engenharia de Software / Sistemas de Informação/ TI,2074,5121,40.4999
+2024-2025,R17,area_formacao,Outras Engenharias (não incluir engenharia de software ou TI),1062,5121,20.7381
+2024-2025,R17,area_formacao,Economia/ Administração / Contabilidade / Finanças/ Negócios,779,5121,15.2119
+2024-2025,R17,area_formacao,Marketing / Publicidade / Comunicação / Jornalismo / Ciências Sociais,181,5121,3.5345
+2024-2025,R17,area_formacao,Química / Física,124,5121,2.4214
+2024-2025,R17,area_formacao,Outra opção,288,5121,5.6239
+2024-2025,R17,area_formacao,Ciências Biológicas/ Farmácia/ Medicina/ Área da Saúde,136,5121,2.6557
+2025-2026,R17,area_formacao,Estatística/ Matemática / Matemática Computacional/ Ciências Atuariais,238,3422,6.955
+2025-2026,R17,area_formacao,Ciência de Dados / Inteligência Artificial,287,3422,8.3869
+2025-2026,R17,area_formacao,Ciências Biológicas/ Farmácia/ Medicina/ Área da Saúde,84,3422,2.4547
+2025-2026,R17,area_formacao,Outras Engenharias (não incluir engenharia de software ou TI),678,3422,19.813
+2025-2026,R17,area_formacao,Economia/ Administração / Contabilidade / Finanças/ Negócios,474,3422,13.8515
+2025-2026,R17,area_formacao,Química / Física,78,3422,2.2794
+2025-2026,R17,area_formacao,Computação / Engenharia de Software / Sistemas de Informação/ TI,1280,3422,37.405
+2025-2026,R17,area_formacao,Marketing / Publicidade / Comunicação / Jornalismo / Ciências Sociais,126,3422,3.6821
+2025-2026,R17,area_formacao,Outra opção,177,3422,5.1724
+2023-2024,R17,faixa_idade,22-24,493,5293,9.3142
+2023-2024,R17,faixa_idade,40-44,429,5293,8.105
+2023-2024,R17,faixa_idade,17-21,178,5293,3.3629
+2023-2024,R17,faixa_idade,55+,72,5293,1.3603
+2023-2024,R17,faixa_idade,35-39,790,5293,14.9254
+2023-2024,R17,faixa_idade,25-29,1654,5293,31.2488
+2023-2024,R17,faixa_idade,30-34,1377,5293,26.0155
+2023-2024,R17,faixa_idade,50-54,111,5293,2.0971
+2023-2024,R17,faixa_idade,45-49,189,5293,3.5708
+2024-2025,R17,faixa_idade,30-34,1503,5215,28.8207
+2024-2025,R17,faixa_idade,35-39,831,5215,15.9348
+2024-2025,R17,faixa_idade,50-54,97,5215,1.86
+2024-2025,R17,faixa_idade,17-21,173,5215,3.3174
+2024-2025,R17,faixa_idade,22-24,425,5215,8.1496
+2024-2025,R17,faixa_idade,25-29,1466,5215,28.1112
+2024-2025,R17,faixa_idade,40-44,448,5215,8.5906
+2024-2025,R17,faixa_idade,45-49,214,5215,4.1035
+2024-2025,R17,faixa_idade,55+,58,5215,1.1122
+2025-2026,R17,faixa_idade,22-24,240,3494,6.8689
+2025-2026,R17,faixa_idade,45-49,196,3494,5.6096
+2025-2026,R17,faixa_idade,50-54,96,3494,2.7476
+2025-2026,R17,faixa_idade,35-39,649,3494,18.5747
+2025-2026,R17,faixa_idade,40-44,318,3494,9.1013
+2025-2026,R17,faixa_idade,17-21,108,3494,3.091
+2025-2026,R17,faixa_idade,55+,93,3494,2.6617
+2025-2026,R17,faixa_idade,30-34,960,3494,27.4757
+2025-2026,R17,faixa_idade,25-29,834,3494,23.8695
+2023-2024,R18,cargo,Analista de Dados/Data Analyst,907,3857,23.5157
+2023-2024,R18,cargo,Outras Engenharias (não inclui dev),31,3857,0.8037
+2023-2024,R18,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,105,3857,2.7223
+2023-2024,R18,cargo,Engenharia e Arquitetura de Dados,684,3857,17.734
+2023-2024,R18,cargo,Analista de Suporte/Analista Técnico,72,3857,1.8667
+2023-2024,R18,cargo,Analista de Inteligência de Mercado/Market Intelligence,39,3857,1.0111
+2023-2024,R18,cargo,DBA/Administrador de Banco de Dados,20,3857,0.5185
+2023-2024,R18,cargo,Estatístico,21,3857,0.5445
+2023-2024,R18,cargo,Cientista de Dados/Data Scientist,687,3857,17.8118
+2023-2024,R18,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,75,3857,1.9445
+2023-2024,R18,cargo,Analytics Engineer,139,3857,3.6038
+2023-2024,R18,cargo,Professor/Pesquisador,28,3857,0.726
+2023-2024,R18,cargo,Outra Opção,262,3857,6.7928
+2023-2024,R18,cargo,Analista de BI/BI Analyst,506,3857,13.119
+2023-2024,R18,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),81,3857,2.1001
+2023-2024,R18,cargo,Analista de Negócios/Business Analyst,195,3857,5.0557
+2023-2024,R18,cargo,Economista,5,3857,0.1296
+2024-2025,R18,cargo,Analista de Dados/Data Analyst,957,3816,25.0786
+2024-2025,R18,cargo,Analista de BI/BI Analyst,396,3816,10.3774
+2024-2025,R18,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,122,3816,3.1971
+2024-2025,R18,cargo,Professor/Pesquisador,21,3816,0.5503
+2024-2025,R18,cargo,Estatístico,17,3816,0.4455
+2024-2025,R18,cargo,Cientista de Dados/Data Scientist,687,3816,18.0031
+2024-2025,R18,cargo,Engenharia e Arquitetura de Dados,660,3816,17.2956
+2024-2025,R18,cargo,Analista de Negócios/Business Analyst,184,3816,4.8218
+2024-2025,R18,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,103,3816,2.6992
+2024-2025,R18,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),80,3816,2.0964
+2024-2025,R18,cargo,Analista de Suporte/Analista Técnico,78,3816,2.044
+2024-2025,R18,cargo,Analytics Engineer,228,3816,5.9748
+2024-2025,R18,cargo,Outra Opção,254,3816,6.6562
+2024-2025,R18,cargo,Outras Engenharias (não inclui dev),29,3816,0.76
+2025-2026,R18,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,106,2500,4.24
+2025-2026,R18,cargo,Cientista de Dados/Data Scientist,423,2500,16.92
+2025-2026,R18,cargo,Analista de Negócios/Business Analyst,141,2500,5.64
+2025-2026,R18,cargo,Analista de BI/BI Analyst,215,2500,8.6
+2025-2026,R18,cargo,Analytics Engineer,135,2500,5.4
+2025-2026,R18,cargo,Outra Opção,206,2500,8.24
+2025-2026,R18,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),33,2500,1.32
+2025-2026,R18,cargo,Engenharia e Arquitetura de Dados,430,2500,17.2
+2025-2026,R18,cargo,Analista de Suporte/Analista Técnico,55,2500,2.2
+2025-2026,R18,cargo,Estatístico,9,2500,0.36
+2025-2026,R18,cargo,Professor/Pesquisador,16,2500,0.64
+2025-2026,R18,cargo,Analista de Dados/Data Analyst,599,2500,23.96
+2025-2026,R18,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,106,2500,4.24
+2025-2026,R18,cargo,Outras Engenharias (não inclui dev),26,2500,1.04
+2023-2024,R18,nivel,Júnior,1046,3857,27.1195
+2023-2024,R18,nivel,Sênior,1419,3857,36.7903
+2023-2024,R18,nivel,Pleno,1392,3857,36.0902
+2024-2025,R18,nivel,Sênior,1572,3816,41.195
+2024-2025,R18,nivel,Júnior,868,3816,22.7463
+2024-2025,R18,nivel,Pleno,1376,3816,36.0587
+2025-2026,R18,nivel,Especialista/Staff+,349,2500,13.96
+2025-2026,R18,nivel,Júnior,518,2500,20.72
+2025-2026,R18,nivel,Pleno,775,2500,31.0
+2025-2026,R18,nivel,Sênior,858,2500,34.32
+2023-2024,R18,faixa_salarial,de R$ 4.001/mês a R$ 6.000/mês,745,4753,15.6743
+2023-2024,R18,faixa_salarial,de R$ 25.001/mês a R$ 30.000/mês,128,4753,2.693
+2023-2024,R18,faixa_salarial,de R$ 30.001/mês a R$ 40.000/mês,86,4753,1.8094
+2023-2024,R18,faixa_salarial,de R$ 3.001/mês a R$ 4.000/mês,352,4753,7.4058
+2023-2024,R18,faixa_salarial,de R$ 16.001/mês a R$ 20.000/mês,328,4753,6.9009
+2023-2024,R18,faixa_salarial,de R$ 1.001/mês a R$ 2.000/mês,216,4753,4.5445
+2023-2024,R18,faixa_salarial,de R$ 2.001/mês a R$ 3.000/mês,288,4753,6.0593
+2023-2024,R18,faixa_salarial,de R$ 12.001/mês a R$ 16.000/mês,650,4753,13.6756
+2023-2024,R18,faixa_salarial,de R$ 8.001/mês a R$ 12.000/mês,1026,4753,21.5864
+2023-2024,R18,faixa_salarial,de R$ 6.001/mês a R$ 8.000/mês,637,4753,13.4021
+2023-2024,R18,faixa_salarial,Menos de R$ 1.000/mês,30,4753,0.6312
+2023-2024,R18,faixa_salarial,de R$ 20.001/mês a R$ 25.000/mês,195,4753,4.1027
+2023-2024,R18,faixa_salarial,Acima de R$ 40.001/mês,72,4753,1.5148
+2024-2025,R18,faixa_salarial,Acima de R$ 40.001/mês,104,4861,2.1395
+2024-2025,R18,faixa_salarial,de R$ 3.001/mês a R$ 4.000/mês,270,4861,5.5544
+2024-2025,R18,faixa_salarial,de R$ 6.001/mês a R$ 8.000/mês,656,4861,13.4952
+2024-2025,R18,faixa_salarial,de R$ 16.001/mês a R$ 20.000/mês,456,4861,9.3808
+2024-2025,R18,faixa_salarial,de R$ 20.001/mês a R$ 25.000/mês,246,4861,5.0607
+2024-2025,R18,faixa_salarial,Menos de R$ 1.000/mês,33,4861,0.6789
+2024-2025,R18,faixa_salarial,de R$ 1.001/mês a R$ 2.000/mês,155,4861,3.1886
+2024-2025,R18,faixa_salarial,de R$ 4.001/mês a R$ 6.000/mês,592,4861,12.1786
+2024-2025,R18,faixa_salarial,de R$ 8.001/mês a R$ 12.000/mês,1080,4861,22.2177
+2024-2025,R18,faixa_salarial,de R$ 2.001/mês a R$ 3.000/mês,237,4861,4.8755
+2024-2025,R18,faixa_salarial,de R$ 12.001/mês a R$ 16.000/mês,716,4861,14.7295
+2024-2025,R18,faixa_salarial,de R$ 25.001/mês a R$ 30.000/mês,159,4861,3.2709
+2024-2025,R18,faixa_salarial,de R$ 30.001/mês a R$ 40.000/mês,157,4861,3.2298
+2025-2026,R18,faixa_salarial,de R$ 2.001/mês a R$ 3.000/mês,130,3227,4.0285
+2025-2026,R18,faixa_salarial,de R$ 8.001/mês a R$ 12.000/mês,707,3227,21.9089
+2025-2026,R18,faixa_salarial,Menos de R$ 1.000/mês,21,3227,0.6508
+2025-2026,R18,faixa_salarial,de R$ 30.001/mês a R$ 40.000/mês,114,3227,3.5327
+2025-2026,R18,faixa_salarial,de R$ 4.001/mês a R$ 6.000/mês,344,3227,10.6601
+2025-2026,R18,faixa_salarial,de R$ 20.001/mês a R$ 25.000/mês,213,3227,6.6006
+2025-2026,R18,faixa_salarial,de R$ 1.001/mês a R$ 2.000/mês,117,3227,3.6257
+2025-2026,R18,faixa_salarial,de R$ 25.001/mês a R$ 30.000/mês,135,3227,4.1835
+2025-2026,R18,faixa_salarial,de R$ 12.001/mês a R$ 16.000/mês,484,3227,14.9985
+2025-2026,R18,faixa_salarial,de R$ 16.001/mês a R$ 20.000/mês,323,3227,10.0093
+2025-2026,R18,faixa_salarial,de R$ 6.001/mês a R$ 8.000/mês,367,3227,11.3728
+2025-2026,R18,faixa_salarial,de R$ 3.001/mês a R$ 4.000/mês,157,3227,4.8652
+2025-2026,R18,faixa_salarial,Acima de R$ 40.001/mês,115,3227,3.5637
+2023-2024,R18,tempo_exp_dados_serie,Até 2 anos,1677,4753,35.283
+2023-2024,R18,tempo_exp_dados_serie,Sem experiência,162,4753,3.4084
+2023-2024,R18,tempo_exp_dados_serie,De 7 a 10 anos,429,4753,9.0259
+2023-2024,R18,tempo_exp_dados_serie,Mais de 10 anos,557,4753,11.7189
+2023-2024,R18,tempo_exp_dados_serie,De 3 a 6 anos,1928,4753,40.5639
+2024-2025,R18,tempo_exp_dados_serie,De 3 a 6 anos,2215,4861,45.5668
+2024-2025,R18,tempo_exp_dados_serie,Até 2 anos,1290,4861,26.5377
+2024-2025,R18,tempo_exp_dados_serie,Mais de 10 anos,585,4861,12.0346
+2024-2025,R18,tempo_exp_dados_serie,De 7 a 10 anos,541,4861,11.1294
+2024-2025,R18,tempo_exp_dados_serie,Sem experiência,230,4861,4.7315
+2025-2026,R18,tempo_exp_dados_serie,Mais de 10 anos,440,3227,13.635
+2025-2026,R18,tempo_exp_dados_serie,Sem experiência,178,3227,5.516
+2025-2026,R18,tempo_exp_dados_serie,De 3 a 6 anos,1463,3227,45.3362
+2025-2026,R18,tempo_exp_dados_serie,Até 2 anos,729,3227,22.5906
+2025-2026,R18,tempo_exp_dados_serie,De 7 a 10 anos,417,3227,12.9222
+2023-2024,R19,genero,Prefiro não informar,16,5293,0.3023
+2023-2024,R19,genero,Masculino,3975,5293,75.0992
+2023-2024,R19,genero,Feminino,1293,5293,24.4285
+2023-2024,R19,genero,Outro,9,5293,0.17
+2024-2025,R19,genero,Outro,8,5215,0.1534
+2024-2025,R19,genero,Prefiro não informar,15,5215,0.2876
+2024-2025,R19,genero,Feminino,1225,5215,23.4899
+2024-2025,R19,genero,Masculino,3967,5215,76.069
+2025-2026,R19,genero,Feminino,767,3494,21.9519
+2025-2026,R19,genero,Prefiro não informar,13,3494,0.3721
+2025-2026,R19,genero,Outro,7,3494,0.2003
+2025-2026,R19,genero,Masculino,2707,3494,77.4757
+2023-2024,R19,atua_como_gestor,Nao,3857,4753,81.1487
+2023-2024,R19,atua_como_gestor,Sim,896,4753,18.8513
+2024-2025,R19,atua_como_gestor,Sim,1045,4861,21.4976
+2024-2025,R19,atua_como_gestor,Nao,3816,4861,78.5024
+2025-2026,R19,atua_como_gestor,Nao,2500,3227,77.4713
+2025-2026,R19,atua_como_gestor,Sim,727,3227,22.5287
+2023-2024,R20,linguagem_preferida,Scala,53,3750,1.4133
+2023-2024,R20,linguagem_preferida,Go,3,3750,0.08
+2023-2024,R20,linguagem_preferida,Clojure,1,3750,0.0267
+2023-2024,R20,linguagem_preferida,Kotlin,1,3750,0.0267
+2023-2024,R20,linguagem_preferida,R,228,3750,6.08
+2023-2024,R20,linguagem_preferida,Rust,29,3750,0.7733
+2023-2024,R20,linguagem_preferida,C/C++/C#,19,3750,0.5067
+2023-2024,R20,linguagem_preferida,DAX/M,8,3750,0.2133
+2023-2024,R20,linguagem_preferida,Javascript,1,3750,0.0267
+2023-2024,R20,linguagem_preferida,Python,3299,3750,87.9733
+2023-2024,R20,linguagem_preferida,Spark,3,3750,0.08
+2023-2024,R20,linguagem_preferida,SAS,2,3750,0.0533
+2023-2024,R20,linguagem_preferida,Julia,24,3750,0.64
+2023-2024,R20,linguagem_preferida,SQL,74,3750,1.9733
+2023-2024,R20,linguagem_preferida,Java,4,3750,0.1067
+2023-2024,R20,linguagem_preferida,Elixir,1,3750,0.0267
+2024-2025,R20,linguagem_preferida,Rust,25,3423,0.7304
+2024-2025,R20,linguagem_preferida,PySpark,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,Sql,4,3423,0.1169
+2024-2025,R20,linguagem_preferida,sql,3,3423,0.0876
+2024-2025,R20,linguagem_preferida,Não sei,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,Spark,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,M/DAX,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,Engenharia de Prompt,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,R,186,3423,5.4338
+2024-2025,R20,linguagem_preferida,C/C++/C#,20,3423,0.5843
+2024-2025,R20,linguagem_preferida,Não trabalharia com linguagem de programação,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,Julia,8,3423,0.2337
+2024-2025,R20,linguagem_preferida,Go,4,3423,0.1169
+2024-2025,R20,linguagem_preferida,Pyspark,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,M e Dax,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,Databricks,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,Clojure,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,Matlab,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,LookML,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,No code,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,.,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,Python,3040,3423,88.811
+2024-2025,R20,linguagem_preferida,Golang,4,3423,0.1169
+2024-2025,R20,linguagem_preferida,PHP,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,Javascript,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,nenhum,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,SPSS,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,SQL,66,3423,1.9281
+2024-2025,R20,linguagem_preferida,Scala,39,3423,1.1394
+2024-2025,R20,linguagem_preferida,SAS,2,3423,0.0584
+2024-2025,R20,linguagem_preferida,Qliksense,1,3423,0.0292
+2024-2025,R20,linguagem_preferida,GO,2,3423,0.0584
+2024-2025,R20,linguagem_preferida,sas,1,3423,0.0292
+2025-2026,R20,linguagem_preferida,"Python, SQL, Scala",18,2095,0.8592
+2025-2026,R20,linguagem_preferida,"SQL, R, Python",21,2095,1.0024
+2025-2026,R20,linguagem_preferida,"Python, SQL, R",54,2095,2.5776
+2025-2026,R20,linguagem_preferida,"Python, R, SQL, Julia",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, Rust",4,2095,0.1909
+2025-2026,R20,linguagem_preferida,"Python, R, SQL",44,2095,2.1002
+2025-2026,R20,linguagem_preferida,"Python, Scala, SQL",14,2095,0.6683
+2025-2026,R20,linguagem_preferida,"R, SQL",12,2095,0.5728
+2025-2026,R20,linguagem_preferida,"SQL, Python, Pyspark",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, SQL, C/C++/C#",9,2095,0.4296
+2025-2026,R20,linguagem_preferida,"Python, Rust, SQL",3,2095,0.1432
+2025-2026,R20,linguagem_preferida,"Python, Rust, SQL, Scala",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,Não conheço isso,1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, Javascript",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, Pyspark",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, C/C++/C#",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, Pyspark",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, Java",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, Rust, R, SQL, Julia",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, R, C/C++/C#",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, Java",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, Julia, R",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, R, Julia",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"R, SQL, Python, C/C++/C#",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Scala, SQL",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, PHP",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, Scala, Rust",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Julia, SQL, Python, C/C++/C#",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Elixir",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, M",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, M",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"C/C++/C#, SQL, Python, Java",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Julia, R",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, VBA",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, DAX",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, Scala",4,2095,0.1909
+2025-2026,R20,linguagem_preferida,"R, Python, SQL",37,2095,1.7661
+2025-2026,R20,linguagem_preferida,"SQL, Python, R",45,2095,2.148
+2025-2026,R20,linguagem_preferida,"Python, SQL, R, Rust",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"SQL, Python, QUALQUER UMA",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Scala, Python, SQL",5,2095,0.2387
+2025-2026,R20,linguagem_preferida,"Python, SQL, Golang",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"SQL, Python, Scala",8,2095,0.3819
+2025-2026,R20,linguagem_preferida,"Python, SQL, PySpark",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, SQL, Dax",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, R, Scala",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, Rust",7,2095,0.3341
+2025-2026,R20,linguagem_preferida,"Python, SQL, C/C++/C#, R",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Rust, Python, SQL",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,DAX,1,2095,0.0477
+2025-2026,R20,linguagem_preferida,Rust,1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, Scala, R, Bash",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,Não utilizo na minha função atual,1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"R, SQL, C/C++/C#, Python",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, Spark",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Scala, Python",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, C/C++/C#, Julia, SQL",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, Go",3,2095,0.1432
+2025-2026,R20,linguagem_preferida,"Python, spark",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, C/C++/C#, Python",3,2095,0.1432
+2025-2026,R20,linguagem_preferida,"SQL, Python, C/C++/C#, JavaScript",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, Linguagem M, DAX",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, Matlab",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, C/C++/C#, Scala",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, Java",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, Oracle data integration",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,SQL,109,2095,5.2029
+2025-2026,R20,linguagem_preferida,Python,254,2095,12.1241
+2025-2026,R20,linguagem_preferida,"SQL, Python, Julia",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, C/C++/C#, SQL, R",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"R, Python",8,2095,0.3819
+2025-2026,R20,linguagem_preferida,"R, SQL, Python",13,2095,0.6205
+2025-2026,R20,linguagem_preferida,"SQL, Scala, R, Python",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, Rust",3,2095,0.1432
+2025-2026,R20,linguagem_preferida,"SQL, R",7,2095,0.3341
+2025-2026,R20,linguagem_preferida,"Python, SQL, R, Polaris",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, PySpark",5,2095,0.2387
+2025-2026,R20,linguagem_preferida,"Python, SQL, Spark",4,2095,0.1909
+2025-2026,R20,linguagem_preferida,"Scala, Python, SQL, Rust",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, C/C++/C#, R",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, C/C++/C#, SQL",3,2095,0.1432
+2025-2026,R20,linguagem_preferida,"Python, Julia, SQL, C/C++/C#",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, Shellscript",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Rust, Python",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"SQL, Python, JavaScript",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, Rust, Mojo",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"C/C++/C#, Python, Dax, Pyspark",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"C/C++/C#, SQL, Progress",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"C/C++/C#, SQL, R, Python",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, DAX",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, R, C/C++/C#",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, R, Julia",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Power Query",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, Type Script",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, R, Scala",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, Power BI",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,YAML,1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, Javascript",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, Scala, Golang, Kotli",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Rust, SQL, Python",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL",735,2095,35.0835
+2025-2026,R20,linguagem_preferida,"SQL, Python",506,2095,24.1527
+2025-2026,R20,linguagem_preferida,"Python, SQL, Scala, Spark",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,R,15,2095,0.716
+2025-2026,R20,linguagem_preferida,html,1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, R, SAS",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"R, Python, Nextflow",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, Excel e Power BI",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, C/C++/C#, Julia, Rust",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Scala, Python, Rust, SQL",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, R",10,2095,0.4773
+2025-2026,R20,linguagem_preferida,ecl,1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"C/C++/C#, Python, SQL",3,2095,0.1432
+2025-2026,R20,linguagem_preferida,"SQL, Scala, Python, Rust",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, dax, M",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, Dax",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, SQL, Julia",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"C/C++/C#, Python",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, Scala, Rust",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, Julia, SQL",3,2095,0.1432
+2025-2026,R20,linguagem_preferida,"Python, R, SQL, Rust",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, C/C++/C#",3,2095,0.1432
+2025-2026,R20,linguagem_preferida,"SQL, C/C++/C#",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"SQL, DAX",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, Scala, C/C++/C#, SQL, Rust",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, Spark",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, Bigquery",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Scala, Python",2,2095,0.0955
+2025-2026,R20,linguagem_preferida,"Python, Julia",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, SQL, C/C++/C#, Julia",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, Ruby",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Cobol",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Dax",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"SQL, Python, noSQL",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,Scala,1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Python, R, Scala, SQL",1,2095,0.0477
+2025-2026,R20,linguagem_preferida,"Scala, SQL, Julia",1,2095,0.0477
+2023-2024,R20,cloud_preferida,Amazon Web Services (AWS),1640,3772,43.4783
+2023-2024,R20,cloud_preferida,Não saberia dizer,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Denodo,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Snowflake,1,3772,0.0265
+2023-2024,R20,cloud_preferida,cloud propria,1,3772,0.0265
+2023-2024,R20,cloud_preferida,não trabalho na área,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Nao consigo escolher,1,3772,0.0265
+2023-2024,R20,cloud_preferida,NR,1,3772,0.0265
+2023-2024,R20,cloud_preferida,"Não sei, precisaria estudar e ver o modelo mais adepto aos valores GNU",1,3772,0.0265
+2023-2024,R20,cloud_preferida,Própria,1,3772,0.0265
+2023-2024,R20,cloud_preferida,sem preferencia,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Oracle,4,3772,0.106
+2023-2024,R20,cloud_preferida,Databricks,3,3772,0.0795
+2023-2024,R20,cloud_preferida,Desconheço,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Huawei Cloud,1,3772,0.0265
+2023-2024,R20,cloud_preferida,nenhum,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Oracle Cloud,1,3772,0.0265
+2023-2024,R20,cloud_preferida,"Nenhuma, não conheço",1,3772,0.0265
+2023-2024,R20,cloud_preferida,não sei,1,3772,0.0265
+2023-2024,R20,cloud_preferida,IBM Cloud,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Sem preferências pois não conheço AWS e GCP.,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Azure (Microsoft),1018,3772,26.9883
+2023-2024,R20,cloud_preferida,Não foi necessário triar ainda,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Não uso,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Não sei responder,2,3772,0.053
+2023-2024,R20,cloud_preferida,IBM,2,3772,0.053
+2023-2024,R20,cloud_preferida,Microsoft Service Power BI,1,3772,0.0265
+2023-2024,R20,cloud_preferida,tanto faz,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Sem preferência,3,3772,0.0795
+2023-2024,R20,cloud_preferida,Não tenho preferência,5,3772,0.1326
+2023-2024,R20,cloud_preferida,.,2,3772,0.053
+2023-2024,R20,cloud_preferida,Hibrida é o melhor caminha. OnPremise + Cloud Publica,1,3772,0.0265
+2023-2024,R20,cloud_preferida,não utilizo,1,3772,0.0265
+2023-2024,R20,cloud_preferida,qualquer uma,2,3772,0.053
+2023-2024,R20,cloud_preferida,nao sei,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Google Cloud (GCP),1050,3772,27.8367
+2023-2024,R20,cloud_preferida,Proprietária,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Não sei qual seria a minha preferência.,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Nao sei,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Não sei,8,3772,0.2121
+2023-2024,R20,cloud_preferida,NA,1,3772,0.0265
+2023-2024,R20,cloud_preferida,"Acredito que esse pergunta desse ter uma antecessora pergunta quais clouds já trabalhei, independente do trabalho atual, para então a mesma fazer mais sentido. Eu só trabalhei com Azure, não sei opinar quanto as outras. Grato pela atenção",1,3772,0.0265
+2023-2024,R20,cloud_preferida,Não sei informar,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Não tenho conhecimento para responder,1,3772,0.0265
+2023-2024,R20,cloud_preferida,Z,1,3772,0.0265
+2024-2025,R20,cloud_preferida,Qlik,1,3587,0.0279
+2024-2025,R20,cloud_preferida,Oracle,1,3587,0.0279
+2024-2025,R20,cloud_preferida,Não sei,1,3587,0.0279
+2024-2025,R20,cloud_preferida,Azure (Microsoft),563,3587,15.6956
+2024-2025,R20,cloud_preferida,Databricks,6,3587,0.1673
+2024-2025,R20,cloud_preferida,Teradata Vantage,1,3587,0.0279
+2024-2025,R20,cloud_preferida,Datadricks,1,3587,0.0279
+2024-2025,R20,cloud_preferida,nao uso,1,3587,0.0279
+2024-2025,R20,cloud_preferida,Não sei opinar / Não tenho preferência,1165,3587,32.4784
+2024-2025,R20,cloud_preferida,Amazon Web Services (AWS),1148,3587,32.0045
+2024-2025,R20,cloud_preferida,clickhouse,1,3587,0.0279
+2024-2025,R20,cloud_preferida,Google Cloud (GCP),697,3587,19.4313
+2024-2025,R20,cloud_preferida,Cloud com Databricks,1,3587,0.0279
+2025-2026,R20,cloud_preferida,Não sei opinar / Não tenho preferência,681,2095,32.506
+2025-2026,R20,cloud_preferida,Databriks,1,2095,0.0477
+2025-2026,R20,cloud_preferida,Databricks,4,2095,0.1909
+2025-2026,R20,cloud_preferida,Google Cloud (GCP),431,2095,20.5728
+2025-2026,R20,cloud_preferida,Azure (Microsoft),308,2095,14.7017
+2025-2026,R20,cloud_preferida,Cloud própria,1,2095,0.0477
+2025-2026,R20,cloud_preferida,Amazon Web Services (AWS),665,2095,31.7422
+2025-2026,R20,cloud_preferida,On Prem,1,2095,0.0477
+2025-2026,R20,cloud_preferida,Oracle,1,2095,0.0477
+2025-2026,R20,cloud_preferida,ownCloud,1,2095,0.0477
+2025-2026,R20,cloud_preferida,Snowflake,1,2095,0.0477
+2023-2024,R20,bi_preferida,Tableau,553,3772,14.6607
+2023-2024,R20,bi_preferida,Qlik View/Qlik Sense,78,3772,2.0679
+2023-2024,R20,bi_preferida,Não preciso desse tipo de ferramenta,1,3772,0.0265
+2023-2024,R20,bi_preferida,Shiny,6,3772,0.1591
+2023-2024,R20,bi_preferida,superset,2,3772,0.053
+2023-2024,R20,bi_preferida,Streamlit,9,3772,0.2386
+2023-2024,R20,bi_preferida,Databricks dashboards,1,3772,0.0265
+2023-2024,R20,bi_preferida,xxxxxxxxxx,1,3772,0.0265
+2023-2024,R20,bi_preferida,Open source,1,3772,0.0265
+2023-2024,R20,bi_preferida,Amplitude,1,3772,0.0265
+2023-2024,R20,bi_preferida,não trabalho na área,1,3772,0.0265
+2023-2024,R20,bi_preferida,Oracle Analytics Cloud,2,3772,0.053
+2023-2024,R20,bi_preferida,Apache Superset,1,3772,0.0265
+2023-2024,R20,bi_preferida,Dashboard em código puro tem se mestrado a melhor opção,1,3772,0.0265
+2023-2024,R20,bi_preferida,Pentaho,1,3772,0.0265
+2023-2024,R20,bi_preferida,ArcGIS,1,3772,0.0265
+2023-2024,R20,bi_preferida,apenas python,1,3772,0.0265
+2023-2024,R20,bi_preferida,Matplotlib,1,3772,0.0265
+2023-2024,R20,bi_preferida,Matplotlib/Plotly/Seaborn,1,3772,0.0265
+2023-2024,R20,bi_preferida,Ferramenta proprietária,1,3772,0.0265
+2023-2024,R20,bi_preferida,Microsoft PowerBI,2370,3772,62.8314
+2023-2024,R20,bi_preferida,Looker,335,3772,8.8812
+2023-2024,R20,bi_preferida,Metabase,169,3772,4.4804
+2023-2024,R20,bi_preferida,Sigma,1,3772,0.0265
+2023-2024,R20,bi_preferida,nenhum,2,3772,0.053
+2023-2024,R20,bi_preferida,Dash,2,3772,0.053
+2023-2024,R20,bi_preferida,Databricks,7,3772,0.1856
+2023-2024,R20,bi_preferida,Alteryx,6,3772,0.1591
+2023-2024,R20,bi_preferida,MicroStrategy,1,3772,0.0265
+2023-2024,R20,bi_preferida,não sei,1,3772,0.0265
+2023-2024,R20,bi_preferida,Custom,1,3772,0.0265
+2023-2024,R20,bi_preferida,Databricks Dashboards,1,3772,0.0265
+2023-2024,R20,bi_preferida,não tenho preferência,1,3772,0.0265
+2023-2024,R20,bi_preferida,Webapps Python (Streamlit),1,3772,0.0265
+2023-2024,R20,bi_preferida,Tibco spotfire,1,3772,0.0265
+2023-2024,R20,bi_preferida,R shiny,1,3772,0.0265
+2023-2024,R20,bi_preferida,Nenhum,1,3772,0.0265
+2023-2024,R20,bi_preferida,Não utilizo,2,3772,0.053
+2023-2024,R20,bi_preferida,Looker studio,1,3772,0.0265
+2023-2024,R20,bi_preferida,não sou do bi,1,3772,0.0265
+2023-2024,R20,bi_preferida,Dashboards customizadas em Python,1,3772,0.0265
+2023-2024,R20,bi_preferida,Celonis,1,3772,0.0265
+2023-2024,R20,bi_preferida,Google Looker Studio,1,3772,0.0265
+2023-2024,R20,bi_preferida,Grafana,6,3772,0.1591
+2023-2024,R20,bi_preferida,Superset,10,3772,0.2651
+2023-2024,R20,bi_preferida,Gaio,1,3772,0.0265
+2023-2024,R20,bi_preferida,Plotly,1,3772,0.0265
+2023-2024,R20,bi_preferida,Google,1,3772,0.0265
+2023-2024,R20,bi_preferida,Sem preferência,3,3772,0.0795
+2023-2024,R20,bi_preferida,Não tenho preferência,2,3772,0.053
+2023-2024,R20,bi_preferida,Dash Plotly,1,3772,0.0265
+2023-2024,R20,bi_preferida,Plotly Dash,1,3772,0.0265
+2023-2024,R20,bi_preferida,Redash,2,3772,0.053
+2023-2024,R20,bi_preferida,Spreadsheet,1,3772,0.0265
+2023-2024,R20,bi_preferida,Dashboards próprios via webpage,1,3772,0.0265
+2023-2024,R20,bi_preferida,More,1,3772,0.0265
+2023-2024,R20,bi_preferida,nao consigo responder,1,3772,0.0265
+2023-2024,R20,bi_preferida,.,3,3772,0.0795
+2023-2024,R20,bi_preferida,Python,2,3772,0.053
+2023-2024,R20,bi_preferida,Não gosto da parte de visualização,1,3772,0.0265
+2023-2024,R20,bi_preferida,nao sei,1,3772,0.0265
+2023-2024,R20,bi_preferida,"Sendo sincero, nenhum",1,3772,0.0265
+2023-2024,R20,bi_preferida,"Apache Superset, que faltou na última lista inclusive não entendi pq",1,3772,0.0265
+2023-2024,R20,bi_preferida,R Shiny,1,3772,0.0265
+2023-2024,R20,bi_preferida,Não uso,1,3772,0.0265
+2023-2024,R20,bi_preferida,Excel,4,3772,0.106
+2023-2024,R20,bi_preferida,Amazon Quicksight,107,3772,2.8367
+2023-2024,R20,bi_preferida,Nenhuma,5,3772,0.1326
+2023-2024,R20,bi_preferida,Não uso ferramenta de BI,1,3772,0.0265
+2023-2024,R20,bi_preferida,Python Dash,1,3772,0.0265
+2023-2024,R20,bi_preferida,Tanto faz,2,3772,0.053
+2023-2024,R20,bi_preferida,Graphana,1,3772,0.0265
+2023-2024,R20,bi_preferida,Trame,1,3772,0.0265
+2023-2024,R20,bi_preferida,Looker Studio,7,3772,0.1856
+2023-2024,R20,bi_preferida,Não sei,5,3772,0.1326
+2023-2024,R20,bi_preferida,Sql databricks,1,3772,0.0265
+2023-2024,R20,bi_preferida,por ser consultoria varia muito,1,3772,0.0265
+2023-2024,R20,bi_preferida,IBM Cognos,1,3772,0.0265
+2023-2024,R20,bi_preferida,DataBricks,1,3772,0.0265
+2023-2024,R20,bi_preferida,NA,3,3772,0.0795
+2023-2024,R20,bi_preferida,Desenvolvimento Proprio,1,3772,0.0265
+2023-2024,R20,bi_preferida,Solução própria,1,3772,0.0265
+2023-2024,R20,bi_preferida,N/A,1,3772,0.0265
+2023-2024,R20,bi_preferida,Databricks SQL,3,3772,0.0795
+2023-2024,R20,bi_preferida,"Não quero trabalhar com dataviz, quero focar na parte mais técnica de Data Engineering direcionando para Data Architecture",1,3772,0.0265
+2023-2024,R20,bi_preferida,Sigma Computing,1,3772,0.0265
+2023-2024,R20,bi_preferida,nao trabalho com bi,1,3772,0.0265
+2023-2024,R20,bi_preferida,não sou capaz de opinar,1,3772,0.0265
+2023-2024,R20,bi_preferida,Microstrategy,2,3772,0.053
+2023-2024,R20,bi_preferida,Não possuo opinião,1,3772,0.0265
+2023-2024,R20,bi_preferida,Não usaria,1,3772,0.0265
+2023-2024,R20,bi_preferida,Z,1,3772,0.0265
+2023-2024,R20,bi_preferida,Não conheço as opções,1,3772,0.0265
+2024-2025,R20,bi_preferida,Microsoft PowerBI,1704,3264,52.2059
+2024-2025,R20,bi_preferida,Superset,9,3264,0.2757
+2024-2025,R20,bi_preferida,Amazon Quicksight,67,3264,2.0527
+2024-2025,R20,bi_preferida,MicroStrategy,1,3264,0.0306
+2024-2025,R20,bi_preferida,Shiny (web framework),1,3264,0.0306
+2024-2025,R20,bi_preferida,Thoughtspot,2,3264,0.0613
+2024-2025,R20,bi_preferida,Observable Framework,1,3264,0.0306
+2024-2025,R20,bi_preferida,Python dash,1,3264,0.0306
+2024-2025,R20,bi_preferida,shiny,1,3264,0.0306
+2024-2025,R20,bi_preferida,Databricks Business Intelligence,1,3264,0.0306
+2024-2025,R20,bi_preferida,hex,1,3264,0.0306
+2024-2025,R20,bi_preferida,Plotly Dash,1,3264,0.0306
+2024-2025,R20,bi_preferida,HEX,1,3264,0.0306
+2024-2025,R20,bi_preferida,Count,1,3264,0.0306
+2024-2025,R20,bi_preferida,Tableau,406,3264,12.4387
+2024-2025,R20,bi_preferida,DASH & PLOTLY,1,3264,0.0306
+2024-2025,R20,bi_preferida,Qlik View/Qlik Sense,48,3264,1.4706
+2024-2025,R20,bi_preferida,Hex,1,3264,0.0306
+2024-2025,R20,bi_preferida,Looker Studio,2,3264,0.0613
+2024-2025,R20,bi_preferida,Nenhuma,1,3264,0.0306
+2024-2025,R20,bi_preferida,Alteryx,1,3264,0.0306
+2024-2025,R20,bi_preferida,superset,2,3264,0.0613
+2024-2025,R20,bi_preferida,Databricks,4,3264,0.1225
+2024-2025,R20,bi_preferida,Sisense,1,3264,0.0306
+2024-2025,R20,bi_preferida,Thoughspot,1,3264,0.0306
+2024-2025,R20,bi_preferida,Jupyter,1,3264,0.0306
+2024-2025,R20,bi_preferida,HorusBI,1,3264,0.0306
+2024-2025,R20,bi_preferida,Grafana,1,3264,0.0306
+2024-2025,R20,bi_preferida,Hex Tech,1,3264,0.0306
+2024-2025,R20,bi_preferida,domo,1,3264,0.0306
+2024-2025,R20,bi_preferida,Knime,1,3264,0.0306
+2024-2025,R20,bi_preferida,Não tenho preferência / Não sei opinar,631,3264,19.3321
+2024-2025,R20,bi_preferida,Metabase,125,3264,3.8297
+2024-2025,R20,bi_preferida,Looker,202,3264,6.1887
+2024-2025,R20,bi_preferida,Python,2,3264,0.0613
+2024-2025,R20,bi_preferida,Apache Superset,2,3264,0.0613
+2024-2025,R20,bi_preferida,T,1,3264,0.0306
+2024-2025,R20,bi_preferida,Nenhuma/ Não uso,1,3264,0.0306
+2024-2025,R20,bi_preferida,Cube.dev,1,3264,0.0306
+2024-2025,R20,bi_preferida,redash,1,3264,0.0306
+2024-2025,R20,bi_preferida,Zoho Analytics,1,3264,0.0306
+2024-2025,R20,bi_preferida,Databricks com opção de BI,1,3264,0.0306
+2024-2025,R20,bi_preferida,databricks,2,3264,0.0613
+2024-2025,R20,bi_preferida,ChatGPT ou Vector Search,1,3264,0.0306
+2024-2025,R20,bi_preferida,Markdown,1,3264,0.0306
+2024-2025,R20,bi_preferida,DataStage,1,3264,0.0306
+2024-2025,R20,bi_preferida,DATABRICKS,1,3264,0.0306
+2024-2025,R20,bi_preferida,Solução própria,1,3264,0.0306
+2024-2025,R20,bi_preferida,Shiny,4,3264,0.1225
+2024-2025,R20,bi_preferida,Databricks SQL,1,3264,0.0306
+2024-2025,R20,bi_preferida,ThoughtSpot,3,3264,0.0919
+2024-2025,R20,bi_preferida,Streamlit,4,3264,0.1225
+2024-2025,R20,bi_preferida,Dashboards em python com framework Dash,1,3264,0.0306
+2024-2025,R20,bi_preferida,"Self-service, não gosto de trabalhar com visualização",1,3264,0.0306
+2024-2025,R20,bi_preferida,pentaho,1,3264,0.0306
+2024-2025,R20,bi_preferida,TS,1,3264,0.0306
+2024-2025,R20,bi_preferida,SAS,1,3264,0.0306
+2024-2025,R20,bi_preferida,Sigma,1,3264,0.0306
+2024-2025,R20,bi_preferida,Databricks Dashboard,1,3264,0.0306
+2024-2025,R20,bi_preferida,Plotly,1,3264,0.0306
+2024-2025,R20,bi_preferida,ORACLE OBIEE,1,3264,0.0306
+2024-2025,R20,bi_preferida,Spotfire,1,3264,0.0306
+2024-2025,R20,bi_preferida,Databricks Dashboards,1,3264,0.0306
+2025-2026,R20,bi_preferida,Não tenho preferência / Não sei opinar,429,1866,22.9904
+2025-2026,R20,bi_preferida,Databricks,8,1866,0.4287
+2025-2026,R20,bi_preferida,Dataiku,1,1866,0.0536
+2025-2026,R20,bi_preferida,Apache Hop,1,1866,0.0536
+2025-2026,R20,bi_preferida,Nenhuma,1,1866,0.0536
+2025-2026,R20,bi_preferida,Ferramenta proprietária da empresa funciona melhor e mais integrada,1,1866,0.0536
+2025-2026,R20,bi_preferida,Superset,6,1866,0.3215
+2025-2026,R20,bi_preferida,Amazon Quicksight,55,1866,2.9475
+2025-2026,R20,bi_preferida,Observable,1,1866,0.0536
+2025-2026,R20,bi_preferida,Própria da empresa,1,1866,0.0536
+2025-2026,R20,bi_preferida,Plotly Dash,2,1866,0.1072
+2025-2026,R20,bi_preferida,Microsoft PowerBI,942,1866,50.4823
+2025-2026,R20,bi_preferida,Looker,119,1866,6.3773
+2025-2026,R20,bi_preferida,Google Analytics,1,1866,0.0536
+2025-2026,R20,bi_preferida,Metabase,76,1866,4.0729
+2025-2026,R20,bi_preferida,HorusBI - LUMO,1,1866,0.0536
+2025-2026,R20,bi_preferida,SalesForce,1,1866,0.0536
+2025-2026,R20,bi_preferida,Streamlit,2,1866,0.1072
+2025-2026,R20,bi_preferida,Superset + Hex,1,1866,0.0536
+2025-2026,R20,bi_preferida,SQL e R,1,1866,0.0536
+2025-2026,R20,bi_preferida,Lightdash,1,1866,0.0536
+2025-2026,R20,bi_preferida,Spotfire,1,1866,0.0536
+2025-2026,R20,bi_preferida,r,1,1866,0.0536
+2025-2026,R20,bi_preferida,Python/Plotly,1,1866,0.0536
+2025-2026,R20,bi_preferida,Tableau,182,1866,9.7535
+2025-2026,R20,bi_preferida,Qlik View/Qlik Sense,27,1866,1.4469
+2025-2026,R20,bi_preferida,Knime,1,1866,0.0536
+2025-2026,R20,bi_preferida,Hex Tech,1,1866,0.0536
+2025-2026,R20,bi_preferida,Horus BI,1,1866,0.0536
+2023-2024,R21,ia_prioridade,"Sim, é nossa principal prioridade como empresa (com foco executivo significativo e alocação de orçamento relevante).",110,896,12.2768
+2023-2024,R21,ia_prioridade,"Mais ou menos... É uma das várias iniciativas que estamos impulsionando, mas não é uma prioridade (iniciativas isoladas e pouco foco).",275,896,30.692
+2023-2024,R21,ia_prioridade,"Sim, está entre nossas principais prioridades para os próximos 2-4 anos (com discussões de iniciativas e orçamentos de curto a médio prazo).",214,896,23.8839
+2023-2024,R21,ia_prioridade,Não sei opinar sobre esse assunto.,39,896,4.3527
+2023-2024,R21,ia_prioridade,Não é uma iniciativa que estamos focando e não tem sido uma prioridade.,258,896,28.7946
+2024-2025,R21,ia_prioridade,"Mais ou menos... É uma das várias iniciativas que estamos impulsionando, mas não é uma prioridade (tratam-se de iniciativas isoladas e com pouco foco).",301,1045,28.8038
+2024-2025,R21,ia_prioridade,"Sim, é nossa principal prioridade como empresa (com foco executivo significativo e alocação de orçamento relevante).",235,1045,22.488
+2024-2025,R21,ia_prioridade,"Sim, está entre nossas principais prioridades para os próximos 2-4 anos (com discussões de iniciativas e orçamentos de curto a médio prazo).",325,1045,31.1005
+2024-2025,R21,ia_prioridade,Não sei opinar sobre esse assunto.,29,1045,2.7751
+2024-2025,R21,ia_prioridade,Não é uma iniciativa que estamos focando e não tem sido uma prioridade.,155,1045,14.8325
+2025-2026,R21,ia_prioridade,"Mais ou menos... É uma das várias iniciativas que estamos impulsionando, mas não é uma prioridade (tratam-se de iniciativas isoladas e com pouco foco).",169,652,25.9202
+2025-2026,R21,ia_prioridade,"Sim, está entre nossas principais prioridades para os próximos 2-4 anos (com discussões de iniciativas e orçamentos de curto a médio prazo).",240,652,36.8098
+2025-2026,R21,ia_prioridade,Não sei opinar sobre esse assunto.,14,652,2.1472
+2025-2026,R21,ia_prioridade,Não é uma iniciativa que estamos focando e não tem sido uma prioridade.,74,652,11.3497
+2025-2026,R21,ia_prioridade,"Sim, é nossa principal prioridade como empresa (com foco executivo significativo e alocação de orçamento relevante).",155,652,23.773
+2023-2024,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia.",80,3772,2.1209
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução.",156,3772,4.1357
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução.",15,3772,0.3977
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",4,3772,0.106
+2023-2024,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia.",8,3772,0.2121
+2023-2024,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução.",15,3772,0.3977
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",3,3772,0.0795
+2023-2024,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",2219,3772,58.8282
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia.",187,3772,4.9576
+2023-2024,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso.",7,3772,0.1856
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução.",6,3772,0.1591
+2023-2024,R21,ia_uso_pessoal,"Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso.",2,3772,0.053
+2023-2024,R21,ia_uso_pessoal,"Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",13,3772,0.3446
+2023-2024,R21,ia_uso_pessoal,"Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução.",2,3772,0.053
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso.",174,3772,4.6129
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso., Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia.",48,3772,1.2725
+2023-2024,R21,ia_uso_pessoal,"Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia., Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia.",1,3772,0.0265
+2023-2024,R21,ia_uso_pessoal,Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia.,718,3772,19.035
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução., Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia.",41,3772,1.087
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",52,3772,1.3786
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso.",20,3772,0.5302
+2023-2024,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso.",1,3772,0.0265
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia.",315,3617,8.7089
+2024-2025,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução.",42,3617,1.1612
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso., Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia.",90,3617,2.4882
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso.",6,3617,0.1659
+2024-2025,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso.",13,3617,0.3594
+2024-2025,R21,ia_uso_pessoal,"Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso.",2,3617,0.0553
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução.",32,3617,0.8847
+2024-2025,R21,ia_uso_pessoal,"Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia., Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia.",1,3617,0.0276
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia., Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia.",1,3617,0.0276
+2024-2025,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",1628,3617,45.0097
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",77,3617,2.1288
+2024-2025,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia.",145,3617,4.0088
+2024-2025,R21,ia_uso_pessoal,"Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução.",2,3617,0.0553
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",11,3617,0.3041
+2024-2025,R21,ia_uso_pessoal,"Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",5,3617,0.1382
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso.",383,3617,10.5889
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução.",389,3617,10.7548
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução.",66,3617,1.8247
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso.",24,3617,0.6635
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução., Utilizo soluções no estilo ""Copilot"" (exemplo: Github Copilot, Amazon CodeWhisperer ou ChatGPT Plus) para ter mais produtividade no dia a dia.",139,3617,3.843
+2024-2025,R21,ia_uso_pessoal,Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia.,223,3617,6.1653
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e a empresa em que trabalho paga pela solução., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",21,3617,0.5806
+2024-2025,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, MidJourney etc) e pago do meu próprio bolso., Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia.",1,3617,0.0276
+2024-2025,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia.",1,3617,0.0276
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e a empresa em que trabalho paga pela solução., Utilizo soluções de AI para código (exemplo: Github Copilot, Cursor, Claude Code) para ter mais produtividade no dia a dia.",224,2105,10.6413
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e a empresa em que trabalho paga pela solução.",467,2105,22.1853
+2025-2026,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e a empresa em que trabalho paga pela solução.",29,2105,1.3777
+2025-2026,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e pago do meu próprio bolso.",11,2105,0.5226
+2025-2026,R21,ia_uso_pessoal,"Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",3,2105,0.1425
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e pago do meu próprio bolso., Utilizo soluções de AI para código (exemplo: Github Copilot, Cursor, Claude Code) para ter mais produtividade no dia a dia.",74,2105,3.5154
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções de AI para código (exemplo: Github Copilot, Cursor, Claude Code) para ter mais produtividade no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e a empresa em que trabalho paga pela solução.",60,2105,2.8504
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e pago do meu próprio bolso., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",6,2105,0.285
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e a empresa em que trabalho paga pela solução., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",17,2105,0.8076
+2025-2026,R21,ia_uso_pessoal,Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia.,39,2105,1.8527
+2025-2026,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Utilizo soluções de AI para código (exemplo: Github Copilot, Cursor, Claude Code) para ter mais produtividade no dia a dia.",75,2105,3.5629
+2025-2026,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",460,2105,21.8527
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e pago do meu próprio bolso.",349,2105,16.5796
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções de AI para código (exemplo: Github Copilot, Cursor, Claude Code) para ter mais produtividade no dia a dia.",122,2105,5.7957
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções de AI para código (exemplo: Github Copilot, Cursor, Claude Code) para ter mais produtividade no dia a dia., Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia.",41,2105,1.9477
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e pago do meu próprio bolso., Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia.",1,2105,0.0475
+2025-2026,R21,ia_uso_pessoal,"Utilizo apenas soluções gratuitas (como por exemplo o ChatGPT), para me ajudar a ser mais produtivo no dia a dia., Não utilizo nenhum tipo de solução de IA Generativa para melhorar a produtividade no dia a dia.",1,2105,0.0475
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e a empresa em que trabalho paga pela solução., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e pago do meu próprio bolso.",17,2105,0.8076
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e pago do meu próprio bolso., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e a empresa em que trabalho paga pela solução.",77,2105,3.658
+2025-2026,R21,ia_uso_pessoal,"Utilizo soluções de AI para código (exemplo: Github Copilot, Cursor, Claude Code) para ter mais produtividade no dia a dia., Utilizo soluções pagas de AI Generativa (como por exemplo ChatGPT plus, Anthropic Claude, Google Gemini etc) e pago do meu próprio bolso.",32,2105,1.5202
+2025-2026,R21,ia_resultados,"Em partes. Temos alguns projetos ""piloto"", envolvendo AI Generativa e Modelos LLM, rodando mas sem muitos resultados e impacto no negócio.",248,646,38.3901
+2025-2026,R21,ia_resultados,"Não, ainda não começamos nenhum projeto envolvendo AI Generativa e Modelos LLM.",87,646,13.4675
+2025-2026,R21,ia_resultados,"Não. Os projetos envolvendo AI Generativa e Modelos LLM, ainda estão em fase de investigação e planejamento.",97,646,15.0155
+2025-2026,R21,ia_resultados,"Sim. Temos projetos envolvendo AI Generativa e Modelos LLM em produção, gerando resultados e impacto no negócio.",171,646,26.4706
+2025-2026,R21,ia_resultados,Não sei opinar sobre isso.,43,646,6.6563
+2023-2024,R22,regiao_onde_mora,Centro-oeste,344,5169,6.6551
+2023-2024,R22,regiao_onde_mora,Nordeste,608,5169,11.7624
+2023-2024,R22,regiao_onde_mora,Sudeste,3173,5169,61.3852
+2023-2024,R22,regiao_onde_mora,Norte,83,5169,1.6057
+2023-2024,R22,regiao_onde_mora,Sul,961,5169,18.5916
+2024-2025,R22,regiao_onde_mora,Sul,1030,5073,20.3036
+2024-2025,R22,regiao_onde_mora,Nordeste,516,5073,10.1715
+2024-2025,R22,regiao_onde_mora,Sudeste,3131,5073,61.7189
+2024-2025,R22,regiao_onde_mora,Centro-oeste,332,5073,6.5445
+2024-2025,R22,regiao_onde_mora,Norte,64,5073,1.2616
+2025-2026,R22,regiao_onde_mora,Sul,540,3369,16.0285
+2025-2026,R22,regiao_onde_mora,Nordeste,380,3369,11.2793
+2025-2026,R22,regiao_onde_mora,Norte,48,3369,1.4248
+2025-2026,R22,regiao_onde_mora,Sudeste,2170,3369,64.4108
+2025-2026,R22,regiao_onde_mora,Centro-oeste,231,3369,6.8566
+2023-2024,R22,uf_onde_mora,ES,106,5169,2.0507
+2023-2024,R22,uf_onde_mora,AM,29,5169,0.561
+2023-2024,R22,uf_onde_mora,RN,44,5169,0.8512
+2023-2024,R22,uf_onde_mora,MT,47,5169,0.9093
+2023-2024,R22,uf_onde_mora,RJ,437,5169,8.4542
+2023-2024,R22,uf_onde_mora,PB,55,5169,1.064
+2023-2024,R22,uf_onde_mora,SE,22,5169,0.4256
+2023-2024,R22,uf_onde_mora,RO,7,5169,0.1354
+2023-2024,R22,uf_onde_mora,SP,2073,5169,40.1045
+2023-2024,R22,uf_onde_mora,MG,557,5169,10.7758
+2023-2024,R22,uf_onde_mora,BA,155,5169,2.9986
+2023-2024,R22,uf_onde_mora,MA,20,5169,0.3869
+2023-2024,R22,uf_onde_mora,SC,250,5169,4.8365
+2023-2024,R22,uf_onde_mora,GO,93,5169,1.7992
+2023-2024,R22,uf_onde_mora,TO,9,5169,0.1741
+2023-2024,R22,uf_onde_mora,MS,29,5169,0.561
+2023-2024,R22,uf_onde_mora,PA,33,5169,0.6384
+2023-2024,R22,uf_onde_mora,PR,420,5169,8.1254
+2023-2024,R22,uf_onde_mora,RS,291,5169,5.6297
+2023-2024,R22,uf_onde_mora,DF,175,5169,3.3856
+2023-2024,R22,uf_onde_mora,PE,124,5169,2.3989
+2023-2024,R22,uf_onde_mora,AL,31,5169,0.5997
+2023-2024,R22,uf_onde_mora,CE,134,5169,2.5924
+2023-2024,R22,uf_onde_mora,PI,23,5169,0.445
+2023-2024,R22,uf_onde_mora,AP,5,5169,0.0967
+2024-2025,R22,uf_onde_mora,RS,369,5073,7.2738
+2024-2025,R22,uf_onde_mora,MA,28,5073,0.5519
+2024-2025,R22,uf_onde_mora,MT,44,5073,0.8673
+2024-2025,R22,uf_onde_mora,PE,120,5073,2.3655
+2024-2025,R22,uf_onde_mora,CE,128,5073,2.5232
+2024-2025,R22,uf_onde_mora,MS,30,5073,0.5914
+2024-2025,R22,uf_onde_mora,TO,6,5073,0.1183
+2024-2025,R22,uf_onde_mora,RO,13,5073,0.2563
+2024-2025,R22,uf_onde_mora,PI,14,5073,0.276
+2024-2025,R22,uf_onde_mora,AM,23,5073,0.4534
+2024-2025,R22,uf_onde_mora,PR,415,5073,8.1806
+2024-2025,R22,uf_onde_mora,RJ,397,5073,7.8257
+2024-2025,R22,uf_onde_mora,AL,23,5073,0.4534
+2024-2025,R22,uf_onde_mora,AP,4,5073,0.0788
+2024-2025,R22,uf_onde_mora,RN,30,5073,0.5914
+2024-2025,R22,uf_onde_mora,SE,21,5073,0.414
+2024-2025,R22,uf_onde_mora,BA,99,5073,1.9515
+2024-2025,R22,uf_onde_mora,PB,53,5073,1.0447
+2024-2025,R22,uf_onde_mora,PA,18,5073,0.3548
+2024-2025,R22,uf_onde_mora,SP,2063,5073,40.6663
+2024-2025,R22,uf_onde_mora,ES,91,5073,1.7938
+2024-2025,R22,uf_onde_mora,MG,580,5073,11.4331
+2024-2025,R22,uf_onde_mora,SC,246,5073,4.8492
+2024-2025,R22,uf_onde_mora,DF,186,5073,3.6665
+2024-2025,R22,uf_onde_mora,GO,72,5073,1.4193
+2025-2026,R22,uf_onde_mora,RJ,290,3369,8.6079
+2025-2026,R22,uf_onde_mora,SP,1409,3369,41.8225
+2025-2026,R22,uf_onde_mora,MG,403,3369,11.962
+2025-2026,R22,uf_onde_mora,RN,33,3369,0.9795
+2025-2026,R22,uf_onde_mora,MS,29,3369,0.8608
+2025-2026,R22,uf_onde_mora,DF,126,3369,3.74
+2025-2026,R22,uf_onde_mora,RO,5,3369,0.1484
+2025-2026,R22,uf_onde_mora,SC,138,3369,4.0962
+2025-2026,R22,uf_onde_mora,CE,92,3369,2.7308
+2025-2026,R22,uf_onde_mora,ES,68,3369,2.0184
+2025-2026,R22,uf_onde_mora,PR,233,3369,6.916
+2025-2026,R22,uf_onde_mora,PE,78,3369,2.3152
+2025-2026,R22,uf_onde_mora,PI,25,3369,0.7421
+2025-2026,R22,uf_onde_mora,GO,55,3369,1.6325
+2025-2026,R22,uf_onde_mora,MA,17,3369,0.5046
+2025-2026,R22,uf_onde_mora,SE,17,3369,0.5046
+2025-2026,R22,uf_onde_mora,PA,17,3369,0.5046
+2025-2026,R22,uf_onde_mora,AP,4,3369,0.1187
+2025-2026,R22,uf_onde_mora,TO,3,3369,0.089
+2025-2026,R22,uf_onde_mora,BA,71,3369,2.1075
+2025-2026,R22,uf_onde_mora,AM,19,3369,0.564
+2025-2026,R22,uf_onde_mora,PB,34,3369,1.0092
+2025-2026,R22,uf_onde_mora,RS,169,3369,5.0163
+2025-2026,R22,uf_onde_mora,MT,21,3369,0.6233
+2025-2026,R22,uf_onde_mora,AL,13,3369,0.3859
+2023-2024,R22,modelo_trabalho,Modelo 100% presencial,790,4753,16.6211
+2023-2024,R22,modelo_trabalho,Modelo 100% remoto,2201,4753,46.3076
+2023-2024,R22,modelo_trabalho,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),972,4753,20.4502
+2023-2024,R22,modelo_trabalho,Modelo híbrido com dias fixos de trabalho presencial,790,4753,16.6211
+2024-2025,R22,modelo_trabalho,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),998,4861,20.5308
+2024-2025,R22,modelo_trabalho,Modelo híbrido com dias fixos de trabalho presencial,850,4861,17.4861
+2024-2025,R22,modelo_trabalho,Modelo 100% presencial,792,4861,16.2929
+2024-2025,R22,modelo_trabalho,Modelo 100% remoto,2221,4861,45.6902
+2025-2026,R22,modelo_trabalho,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),631,3227,19.5538
+2025-2026,R22,modelo_trabalho,Modelo 100% presencial,670,3227,20.7623
+2025-2026,R22,modelo_trabalho,Modelo 100% remoto,1281,3227,39.6963
+2025-2026,R22,modelo_trabalho,Modelo híbrido com dias fixos de trabalho presencial,645,3227,19.9876
+2023-2024,R23,modelo_trabalho_ideal,Modelo 100% presencial,96,4753,2.0198
+2023-2024,R23,modelo_trabalho_ideal,Modelo 100% remoto,2124,4753,44.6876
+2023-2024,R23,modelo_trabalho_ideal,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),2144,4753,45.1084
+2023-2024,R23,modelo_trabalho_ideal,Modelo híbrido com dias fixos de trabalho presencial,389,4753,8.1843
+2024-2025,R23,modelo_trabalho_ideal,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),2102,4861,43.2421
+2024-2025,R23,modelo_trabalho_ideal,Modelo híbrido com dias fixos de trabalho presencial,431,4861,8.8665
+2024-2025,R23,modelo_trabalho_ideal,Modelo 100% remoto,2237,4861,46.0193
+2024-2025,R23,modelo_trabalho_ideal,Modelo 100% presencial,91,4861,1.872
+2025-2026,R23,modelo_trabalho_ideal,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),1387,3227,42.9811
+2025-2026,R23,modelo_trabalho_ideal,Modelo 100% presencial,60,3227,1.8593
+2025-2026,R23,modelo_trabalho_ideal,Modelo 100% remoto,1359,3227,42.1134
+2025-2026,R23,modelo_trabalho_ideal,Modelo híbrido com dias fixos de trabalho presencial,421,3227,13.0462
+2023-2024,R23,satisfacao,Sim,3420,4753,71.9546
+2023-2024,R23,satisfacao,Nao,1333,4753,28.0454
+2024-2025,R23,satisfacao,Sim,3334,4861,68.5867
+2024-2025,R23,satisfacao,Nao,1527,4861,31.4133
+2025-2026,R23,satisfacao,Nao,1001,3227,31.0195
+2025-2026,R23,satisfacao,Sim,2226,3227,68.9805
+2023-2024,R23,planos_mudar,"Não estou buscando, mas me considero aberto a outras oportunidades",1761,4753,37.0503
+2023-2024,R23,planos_mudar,"Estou em busca de oportunidades, mas apenas fora do Brasil",444,4753,9.3415
+2023-2024,R23,planos_mudar,Não estou buscando e não pretendo mudar de emprego nos próximos 6 meses,1210,4753,25.4576
+2023-2024,R23,planos_mudar,Estou em busca de oportunidades dentro ou fora do Brasil,1338,4753,28.1506
+2024-2025,R23,planos_mudar,Não estou buscando e não pretendo mudar de emprego nos próximos 6 meses,1295,4861,26.6406
+2024-2025,R23,planos_mudar,Estou em busca de oportunidades dentro ou fora do Brasil,1253,4861,25.7766
+2024-2025,R23,planos_mudar,"Não estou buscando, mas me considero aberto a outras oportunidades",1897,4861,39.0249
+2024-2025,R23,planos_mudar,"Estou em busca de oportunidades, mas apenas fora do Brasil",416,4861,8.5579
+2025-2026,R23,planos_mudar,"Não estou buscando, mas me considero aberto a outras oportunidades",1306,3227,40.471
+2025-2026,R23,planos_mudar,Estou em busca de oportunidades dentro ou fora do Brasil,818,3227,25.3486
+2025-2026,R23,planos_mudar,"Estou em busca de oportunidades, mas apenas fora do Brasil",299,3227,9.2656
+2025-2026,R23,planos_mudar,Não estou buscando e não pretendo mudar de emprego nos próximos 6 meses,804,3227,24.9148

@@ -1,0 +1,14 @@
+# Dados brutos e camadas intermediarias nao sao versionados, por tamanho.
+# O README explica como reconstrui-los a partir dos CSV originais do Kaggle.
+dados/raw/
+dados/bronze/
+dados/silver/
+dados/gold/
+dados/headers_norm.json
+dados/headers_v2.json
+dados/validacao_dominios.json
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
