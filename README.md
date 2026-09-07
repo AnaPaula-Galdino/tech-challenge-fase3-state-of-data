@@ -6,7 +6,7 @@ Solução de Engenharia de Dados e Analytics sobre a pesquisa **State of Data Br
 
 **Entregáveis:** [material executivo em PDF](entregaveis/TechChallenge_Fase3_MaterialExecutivo.pdf) e [em PowerPoint](entregaveis/TechChallenge_Fase3_MaterialExecutivo.pptx), [diagrama da arquitetura editável no Draw.io](entregaveis/arquitetura_aws.drawio), e os códigos e notebooks deste repositório.
 
-**Print AWS:** [print aws]([entregaveis/TechChallenge_Fase3_MaterialExecutivo.pdf])
+**Print AWS:** [print aws]([evidencias])
 ---
 
 ## 1. O problema
